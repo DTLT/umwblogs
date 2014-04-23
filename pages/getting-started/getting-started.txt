@@ -1,0 +1,13 @@
+{{indexmenu_n>1}}
+
+#Getting Started
+
+* [[10 Ways to Use UMW Blogs]]
+* [[Signing Up for a Username|Registering for a Username (Only)]]
+* [[Signing Up for a Username and Blog|Registering for a Username and Blog]]
+* [[Logging Into UMW Blogs]]
+* [[Finding Your Blogs]]
+* [[Creating a New Blog]]
+* [[Adding Yourself to a Course Blog]]
+* [[Accessing the Dashboard]]
+* [[Updating Your Profile]]
