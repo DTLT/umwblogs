@@ -2,8 +2,6 @@
 
 #Registering for a Username (Only)
 
-#Registering for a Username (Only)
-
 1)  To register your username, go to the [[http://umwblogs.org | UMW Blogs homepage]], and click the "Create a New Account" link.
 
 2)  On the registration form, enter a username and your @mail.umw.edu e-mail address, and make sure the "Just a username, please" radio button is selected.
