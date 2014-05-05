@@ -146,8 +146,8 @@ Additionally, Professor Marie McAllister is using a UMW Blog to create an audio 
 Given how attractive a blog on UMW Blogs can be- and all the features it affords you- why not use it to create a presentation for a conference that can serve at the same time as a resource for references, ideas, and concepts long after the presentation is over? It has been done pretty effectively already. Follow the links below to see a few examples.
 
 **Examples:**
-  * [http://duke.umwblogs.org/ | Jim Groom's Duke CIT presentation]]
-  * [http://notablog.umwblogs.org | Don't Call it a Blog presentation at ACCS 2008]]
-  * [http://atlss.umwblogs.org | Steve Greenlaw's Augmenting Teaching and Learning with Social Software] ]
-  * [http://tools.umwblogs.org | Joe McMahon and Jim Groom's presentation for incoming Freshmen, Fall 2007]]
-  * [http://boringtoblogging.umwblogs.org | Jami Bryan's "Boring to Blogging" presentation at Faculty Academy 2008]]
+  * [[http://duke.umwblogs.org/ | Jim Groom's Duke CIT presentation]]
+  * [[http://notablog.umwblogs.org | Don't Call it a Blog presentation at ACCS 2008]]
+  * [[http://atlss.umwblogs.org | Steve Greenlaw's Augmenting Teaching and Learning with Social Software] ]
+  * [[http://tools.umwblogs.org | Joe McMahon and Jim Groom's presentation for incoming Freshmen, Fall 2007]]
+  * [[http://boringtoblogging.umwblogs.org | Jami Bryan's "Boring to Blogging" presentation at Faculty Academy 2008]]
