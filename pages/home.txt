@@ -1,4 +1,4 @@
-#Welcome to UMW Blogs Support!
+#UMW Blogs Support Home
 
 ==== Notes ====
   * You can find professor Steve Greenlaw's wiki [[http://stevegreenlaw.org/profgwiki/ | here]].
