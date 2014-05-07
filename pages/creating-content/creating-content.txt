@@ -10,4 +10,4 @@
   * [[creating-content:Uploading and Displaying Images]]
   * [[creating-content:Uploading and Linking to Files]]
   * [[creating-content:Embedding Videos]]
-  * [[creating-content:Embedding PDFs]
+  * [[creating-content:Embedding PDFs]]
