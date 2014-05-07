@@ -1,1 +1,3 @@
+{{indexmenu_n>1}}
+
 #Posts vs Pages
