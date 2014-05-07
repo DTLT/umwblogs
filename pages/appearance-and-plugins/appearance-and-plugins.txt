@@ -2,7 +2,6 @@
 
 #Appearance & Plugins
 
-  * [[Changing Your Blog Title]]
   * [[Making the Front Page a Static Page]]
   * [[Changing the Theme]]
   * [[Adding and Changing Widgets]]
