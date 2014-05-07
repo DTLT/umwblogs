@@ -1,3 +1,10 @@
 {{indexmenu_n>4}}
 
 #General Administration
+
+  * [[Changing Your Blog Title]]
+  * [[Managing Comments]]
+  * [[Setting Privacy Options]]
+  * [[Finding Your RSS Feed]]
+  * [[Mapping a Domain]]
+  * [[Exporting Your Blog]]
