@@ -2,7 +2,7 @@
 
 #Creating a Post
 
-For some courses, you will need to create a post on your own personal blog; for others, you will need to create a post directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, check with your classmates, or ask your professor for clarification.
+For some courses, you will need to create a post on your own personal blog; for others, you will need to create a post directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
 [{{ :creating-content:post-addnew.png?nolink |}}]
 
