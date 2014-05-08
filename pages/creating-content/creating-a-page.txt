@@ -12,7 +12,7 @@ For some courses, you will need to create a page on your own personal blog; for 
 
 2)  In the Add New Page editing area, enter a title for your page. Be descriptive! You may be asked to include specific items in your page titles. When in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
-3)  Type the content for your page into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause your text to be displayed improperly.
+3)  Type the content for your page into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause problems on your blog.
 
 [{{ :creating-content:publish.png?nolink |}}]
 
