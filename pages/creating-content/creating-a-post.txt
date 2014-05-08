@@ -4,21 +4,19 @@
 
 For some courses, you will need to create a post on your own personal blog; for others, you will need to create a post directly on the main course blog. Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard. When in doubt, consult the syllabus, check with your classmates, or ask your professor for clarification.
 
-[{{ :creating-content:posts.png?nolink |}}]
+[{{ :creating-content:post-addnew.png?nolink |}}]
 
 1)  From the left sidebar, go to Posts -> Add New.
 
-[{{ :creating-content:copy-paste-word.png?nolink |}}]
+[{{ :creating-content:post-editor.png?nolink |}}]
 
 2)  In the Add Post editing area, enter a title for your post. Be descriptive, but not boring! Assignment #1, Paper #1, etc are NOT good titles. You may be asked to include specific items in your post titles, so when in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
-3)  Type your post into the larger text box. It's best to compose your text directly in the browser window, if possible.
-
-4)  If you've already written text in Word that you need to include in your post, click the Kitchen Sink icon near the right of the HTML editing toolbar to expand a second level of icons, then look for the clipboard with a W icon. Click the clipboard with the W icon, copy and paste your text from Word into the box that appears, then click the Insert button. This will strip extraneous formatting from your text and prevent it from breaking the site.
+3)  Type your post into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause your text to be displayed improperly.
 
 [{{ :creating-content:categories-tags.png?nolink |}}]
 
-5)  You may be asked to add certain tags or categories to your post. Scroll down the Add Post page and look for the Categories and Tags widgets on the right side. 
+4)  You may be asked to add certain tags or categories to your post. Scroll down the Add Post page and look for the Categories and Tags widgets on the right side. 
 
 **Categories:** If the category you need has already been created, you can simply check the box next to the right category. Otherwise, click the Add New Category link and enter the category name.
 
@@ -28,4 +26,4 @@ When in doubt about what categories or tags to use, consult the syllabus, ask a 
 
 [{{ :creating-content:publish.png?nolink |}}]
 
-6)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your post will now appear on the site.
+5)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your post will now appear on the site.
