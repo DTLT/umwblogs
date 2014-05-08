@@ -2,5 +2,9 @@
 
 #Visual Editor vs Text Editor
 
-WordPress provides two different editors: a Visual editor useful for formatting text similar to the way you would in a word processor, and a Text editor useful for working with HTML elements.
+WordPress provides two different editors: a Visual editor and a Text editor.
+
+The **Visual editor** is the default, and provides a series of icons for applying formatting similar to the ones found in word processors. What you see in the Visual editor  
+
+The **Text editor** has a formatting toolbar with text labels instead of icons. The strength of the Text editor is that you can enter HTML, including embed codes for different kinds of media, and the Text editor will properly display the media.
 
