@@ -4,11 +4,11 @@
 
 1)  Make sure you are on the right Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard.
 
-[{{ :creating-content:posts.png?nolink&300 |}}]
+[{{ :creating-content:posts.png?nolink |}}]
 
 2)  From the left sidebar, go to Posts -> Add New.
 
-[{{ :creating-content:add-new-post.png?nolink&500 |}}]
+[{{ :creating-content:copy-paste-word.png?nolink |}}]
 
 3)  In the Add Post editing area, enter a title for your post. Be descriptive, but not boring! Assignment #1, Paper #1, etc are NOT good titles. You may be asked to include specific items in your post titles, so when in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
