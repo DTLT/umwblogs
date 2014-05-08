@@ -12,7 +12,7 @@ For some courses, you will need to create a post on your own personal blog; for 
 
 2)  In the Add Post editing area, enter a title for your post. Be descriptive, but not boring! Assignment #1, Paper #1, etc are NOT good titles. You may be asked to include specific items in your post titles, so when in doubt, consult the syllabus, ask a classmate, or check with the professor.
 
-3)  Type your post into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause your text to be displayed improperly.
+3)  Type your post into the larger text box. It's best to compose your text directly in the browser window, if possible. If you are pasting text from Microsoft Word, the visual editor will do its best to remove any extraneous formatting that may cause problems on your blog.
 
 [{{ :creating-content:categories-tags.png?nolink |}}]
 
