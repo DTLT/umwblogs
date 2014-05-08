@@ -2,7 +2,7 @@
 
 #Creating a Post
 
-1)  Make sure you are on the right Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard.
+1)  Make sure you are on the correct Dashboard by looking in the menu across the top. If you are not in the right Dashboard, use the My Sites drop-down menu to go to the correct Dashboard.
 
 [{{ :creating-content:posts.png?nolink |}}]
 
