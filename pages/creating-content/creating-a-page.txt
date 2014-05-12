@@ -16,4 +16,4 @@ For some courses, you will need to create a page on your own personal blog; for 
 
 [{{ :creating-content:publish.png?nolink |}}]
 
-4)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your post will now appear on the site.
+4)  When you are finished, find and click the Publish icon near the top of the right sidebar. Your page will now appear on the site.
