@@ -50,3 +50,8 @@ You may also wish to enter text into the Description field, and whether or not t
   * //Alignment//: whether the image is justified to the left, right, or center
   * //Link to//: where a visitor is taken when they click on the image. This can be useful if you are embedding a very large image that cannot be displayed at full size within the post/page you are creating; if you set this option to **Media File**, visitors could click on the embedded image to see a full-size version. If you are not embedding an image that needs to be viewed at full size, you can prevent the image from being clickable by setting this option to **None**.
   * //Size//: whenever you upload an image, the WordPress Media Library automatically generates copies of the image at standardized sizes. Pick which version should be embedded into your post/page; the optimal size depends on your theme, but usually 600px or less is a good place to start.
+
+3)  When you are finished, click Insert Into Post/Page to continue editing your post/page.
+
+==== Image Copyright & Licensing ====
+
