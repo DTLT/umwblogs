@@ -1,3 +1,36 @@
 {{indexmenu_n>6}}
 
 #Uploading and Displaying Images
+
+Whether you are uploading an image directly to WordPress, or wanting to embed an image located on the web, the Media Library is responsible for organizing and managing all images. 
+
+=== Accessing the Media Library ===
+
+You can get to the Media Library in one of two ways:
+
+[{{ :creating-content:media-library.png?nolink |}}]
+
+//From the dashboard:// Go to Media -> Library to view images you've already uploaded, or Media -> Add New to upload new images.
+
+[{{ :creating-content:visual-editor.png?nolink |}}]
+
+//While editing a post:// Click the Add Media button to embed existing images or to upload a new image to be embedded.
+
+=== Uploading a New Image ===
+
+[{{ :creating-content:insert-media.png?nolink&600 |}}]
+
+1)  Clicking the Add Media button from the post/page editor (or, from the dashboard, going to Media -> Add New), will take you to the Upload Files tab of the Media Library. When uploading files, you may either drag and drop images into marked section of the browser window, or click the Select Files button to find the images you want to upload on your computer. Pay attention to the current maximum upload file size limit, and make sure each image you upload is below the designated limit.
+
+[{{ :creating-content:insert-media-eagle.png?nolink&600 |}}]
+
+2)  After successfully uploading your image or selecting it from the , you will have the opportunity to enter additional details about the image, and to set display settings. The most important of the text-based details are the:
+  * //Caption//, which should contain copyright / licensing information about the image, and the
+  * //Alt Text//, which will be displayed if a person's browser cannot display images, or if a person is using a screen reader to access your blog. If you do not enter Alt Text for your images, screen readers could potentially get stuck and be unable to load the rest of your blog.
+
+You may also wish to enter text into the Description field, and whether or not this is displayed will depend on what theme you are using. Each of these text fields accepts basic HTML (e.g. anchor tags to create links). 
+
+3)   Under Attachment Display Settings, there are three drop-downs that provide you with some options about how the image is displayed:
+  * //Alignment//: whether the image is justified to the left, right, or center
+  * //Link to//: where a visitor is taken when they click on the image. This can be useful if you are embedding a very large image that cannot be displayed at full size within the post/page you are creating; if you set this option to **Media File**, visitors could click on the embedded image to see a full-size version. If you are not embedding an image that needs to be viewed at full size, you can prevent the image from being clickable by setting this option to **None**.
+  * //Size//: whenever you upload an image, the WordPress Media Library automatically generates copies of the image at standardized sizes. Pick which version should be embedded into your post/page; the optimal size depends on your theme, but usually 600px or less is a good place to start.
