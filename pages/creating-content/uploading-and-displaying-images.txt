@@ -6,15 +6,15 @@ Whether you are uploading an image directly to WordPress, or wanting to embed an
 
 ==== Accessing the Media Library ====
 
-You can get to the Media Library in one of two ways:
-
-[{{ :creating-content:media-library.png?nolink |}}]
-
-//From the dashboard:// Go to Media -> Library to view images you've already uploaded, or Media -> Add New to upload new images.
+To access the Media Library:
 
 [{{ :creating-content:visual-editor.png?nolink |}}]
 
-//While editing a post:// Click the Add Media button to embed existing images or to upload a new image to be embedded.
+//While editing a post:// Click the Add Media button to embed existing images or to upload a new image to be embedded. This is the primary method for accessing the Media Library, as it allows you to both upload an image and place it in a post/page at the same time.
+
+[{{ :creating-content:media-library.png?nolink |}}]
+
+//From the dashboard:// Go to Media -> Library to view images you've already uploaded, or Media -> Add New to upload new images. This method is useful for uploading images you want to use later.
 
 ==== Uploading Images to the Library ====
 
@@ -22,7 +22,7 @@ You can get to the Media Library in one of two ways:
 
 [{{ :creating-content:insert-from-url.png?nolink&600 |}}]
 
-If you would prefer to embed an image that is stored elsewhere on the web, click the Add Media button, then click the **Insert from URL** link on the left side of the Insert Media window. Enter the direct URL to the image you want to embed, enter a title, and click Insert into Post. Note that images embedded in this way are not actually stored in your Media Library; if the images are removed from the original storage location by the owner of that location, they will no longer appear on your blog. Think carefully before choosing this method! Consider only using this method with images you control, e.g. images stored in your own Flickr account.
+To embed an image from the web, click the Add Media button, then click the **Insert from URL** link on the left side of the Insert Media window. Enter the direct URL to the image you want to embed, enter a title, and click Insert into Post. Note that images embedded in this way are not actually stored in your Media Library; if the images are removed from the original storage location by the owner, they will no longer appear on your blog. Think carefully before choosing this method! Consider only using this method with images you control, e.g. images stored in your own Flickr account.
 
 **Uploading a New Image**
 
@@ -53,5 +53,8 @@ You may also wish to enter text into the Description field, and whether or not t
 
 3)  When you are finished, click Insert Into Post/Page to continue editing your post/page.
 
-==== Image Copyright & Licensing ====
+==== Changing Image Options ====
 
+You can make changes to your image after you've embedded it 
+
+==== Image Copyright & Licensing ====
