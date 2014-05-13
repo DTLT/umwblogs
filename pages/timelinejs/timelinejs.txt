@@ -19,7 +19,7 @@ A few tips:
   * he standard date format is: xx/xx/xxxx -- Month / Day / Year
   * You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
 
-{{:timelinejs:screen_shot_2014-05-13_at_3.06.38_pm.png?200|}}  {{:timelinejs:screen_shot_2014-05-13_at_2.27.17_pm.png?200|}}
+{{:timelinejs:screen_shot_2014-05-13_at_3.06.38_pm.png?200|}} {{:timelinejs:screen_shot_2014-05-13_at_2.27.17_pm.png?200|}}
 
 
   * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
