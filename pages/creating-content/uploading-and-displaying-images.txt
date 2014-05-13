@@ -53,6 +53,8 @@ You may also wish to enter text into the Description field, and whether or not t
 
 ==== Changing Image Options ====
 
-You can make changes to your image after you've embedded it by clicking on the image in the post/page editor. When you do this, you 
+[{{ :creating-content:image-edit.png?nolink |}}]
+
+You can make changes to your image after you've embedded it by clicking on the image in the post/page editor. two new icons will appear. To make changes to how an image displays in your post, click **Edit Image**, and to remove the image altogether, click **Delete Image**.
 
 ==== Image Copyright & Licensing ====
