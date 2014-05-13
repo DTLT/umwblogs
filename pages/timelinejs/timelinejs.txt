@@ -1,12 +1,67 @@
-#Using Timeline JS
+====== How to Use Timeline JS ======
+
+\\
+\\
+\\
+
+===== First Steps =====
+
 
 Go to: [[http://timeline.knightlab.com/|http://timeline.knightlab.com/]]
 
-Follow the Instructions on their webpage
+Follow the Instructions on their webpage.
 
-Download the Google Drive Spreadsheet Template.
+Download the "Google Drive Spreadsheet Template" and save a copy of their spreadsheet.\\
+[[https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public|Link to spread sheet]]
 
-Save a copy of their spreadsheet and fill out the spreadsheet within information for your timeline.
+Fill out the spreadsheet with information for your timeline.
+Your spreadsheet should look like this:
+
+{{:timelinejs:spreadsheet_tabs.png?800|}}
+
+
+
+===== Excel Spreadsheet Colums =====
+
+
+
+**Start and End Date:**
+
+The standard date format is: xx/xx/xxxx -- Month / Day / Year
+
+You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
+
+**Headline:**
+
+This is where you can put a bolded title of the event.
+
+**Text:**
+This is where you can type blocks of text to describe the event in the timeline of events, but try to keep it short.
+
+Important note: For the first row / Title slide, the text in the cell will appear as a sub-title text and you must include it.
+
+**Media:**
+This is where you can add a link to your multimedia such as a picture, website, youtube video, Vimeo Video, Google map, Flickr photos, tweets, SoundCloud, and Block Quotes.
+
+For a block quote use "<blockquote>" before the text and "</blockquote>" at the end of the text.
+
+**Media Credit:** You can put a credit of who or where the photo came from here.
+
+**Media Caption:** Here you can write a caption to describe your photo.
+
+**Media Thumbnail:** You can add an additional link to a photo so that that a small image will appear in the timeline to represent that slide. 
+
+**Type:** This is where you can decide wether your slide is an standard slide, a title side, or and era, by selecting options from the drop down in the cell; blank, title, era, respectively.
+
+How to use Era: Selecting the Era option will not show anything in the other fields, it will simply add a colored box and name to the timeline below to show events in your Era. It will name your era with whatever is in the respective Headline colum cell. 
+
+Caution: If you select title slide for anything other than the first slide, all slide before it will not be shown.
+
+
+
+
+
+
 
 Here is an example of how the columns will appear on your timeline.
 
@@ -23,8 +78,5 @@ You can navigate the timeline by using the arrow keys, clicking on each event, t
   * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
   * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
 * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear. 
-* The standard date format is: xx/xx/xxxx -- Month / Day / Year
-  * You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
 
-{{:timelinejs:screen_shot_.png?200|}} 
-
+{{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
