@@ -2,7 +2,12 @@
 
 #Copyright and Attribution Best Practices
 
-When writing a paper, it's important to provide credit to the writers, researchers, and other academics who influenced your thinking, or whose words you have used to illustrate a point. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed for similar purposes, especially on an open and highly-trafficked publishing platform like UMW Blogs.
+When writing a paper, it's important to provide credit to the writers, researchers, academics, and others who influenced your thinking, or whose words you have used. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed, especially on an open and highly-trafficked publishing platform like UMW Blogs.
+
+==== Why Does Giving Credit Matter? ====
+
+Through projects like UMW Blogs, DS106, and Domain of One's Own, UMW has a history of encouraging students to participate meaningfully on the web, including sharing their work widely for everyone's benefit. 
+
 
 ==== Aren't I Protected by Fair Use? ====
 
@@ -16,7 +21,7 @@ Also, consider that the last major update to US copyright law was the 1998 passa
   * Six years before [[http://en.wikipedia.org/wiki/Flickr|Flickr]] (2004)
   * Seven years before [[http://en.wikipedia.org/wiki/Youtube|YouTube]] (2005)
 
-In short, US copyright law is outdated in many ways, and fair use probably does not provide the protection you think it does.
+In short, US copyright law is outdated in many ways, and fair use probably does not provide the breadth of protection you think it does.
 
 ==== A Simplified Guide to Copyright ====
 
@@ -33,5 +38,9 @@ This flowchart is not intended to summarize or to provide guidance related to al
 
 ==== Giving Attribution ====
 
-==== Further Reading ====
-  * Stanford's [[http://fairuse.stanford.edu/|Copyright and Fair Use]] website
+==== Links and Resources ====
+  * Stanford's Copyright & Fair Use website
+  * TinEye Reverse Image Search
+  * Creative Commons Search Engine
+  * [[http://www.openculture.com/|Open Culture]] (free cultural & educational media)
+  * Creative Commons Attribution Tips
