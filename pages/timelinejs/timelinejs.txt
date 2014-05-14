@@ -9,7 +9,7 @@
 
 Go to: [[http://timeline.knightlab.com/|http://timeline.knightlab.com/]]
 
-Follow the Instructions on their webpage.
+You can also refer to the instructions on their webpage.
 
 Download the "Google Drive Spreadsheet Template" and save a copy of their spreadsheet.\\
 [[https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public|Link to spread sheet]]
@@ -21,7 +21,7 @@ Your spreadsheet should look like this:
 
 
 
-===== Excel Spreadsheet Colums =====
+===== Excel Spreadsheet Columns =====
 
 
 
@@ -55,10 +55,16 @@ For a block quote use "<blockquote>" before the text and "</blockquote>" at the 
 
 **Type:** This is where you can decide wether your slide is an standard slide, a title side, or an era, by selecting options from the drop down in the cell; blank, title, era, respectively.
 
-How to use Era: Selecting the Era option will not show anything in the other fields, it will simply add a colored box and name to the timeline below to show events in your Era. It will name your era with whatever is in the respective Headline colum cell. 
+Using Title slide: The first "Slide" is default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
 
-Caution: If you select title slide for anything other than the first slide, all slide before it will not be shown.
+How to use Era: Selecting the Era option will not show anything in the other fields, it will simply add a colored box and name to the timeline below to show events in your Era. It will name your era with whatever is in the respective Headline column cell. 
 
+
+* Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
+* For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
+* You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
+* Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
+* You can add additional rows at the bottom of the spread sheets for more evens. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column. You can also use the "Format painter" brush as well to expand the formatting. 
 
 
 
@@ -70,6 +76,24 @@ Here is an example of how the columns will appear on your timeline.
 
 {{:timelinejs:screen_shot_timeline.png?800|}}
 
+===== Publishing to the Web =====
+
+When you are ready to publish to the web or want to see how your updates are working you will need to publish to the web.
+
+* In your spreadsheet, click on "File" at the top, then "Click publish to the Web". 
+* Another window will pop up, once there Check "Automatically republish when changes are made." 
+* Uncheck all other boxes. 
+* Click "Start Publishing."
+* This will give you the URL to paste into the Timeline JS website.
+* From there paste the link in to The timeline Js's step 3 where it says google spreadsheet URL, will will most likely not need to change any of the rest of the settings
+* A the bottom you can either preview your timeline on the webpage or you can click link to preview and view it in another page.
+* As a final step you can grab the code in Timeline JS's step four to embed into your website or blog.
+
+**Important Note:** The "Automatically Republish" function does not always work immediately after you have made changes. You may have to go back into that window and manually republish your timeline if you want to see your most recent changes.
+
+ 
+
+
 ===== Navigation =====
 
 
@@ -80,8 +104,3 @@ You can navigate the timeline by using the arrow keys, clicking on each event, t
 
 
   * The time line will not work well for stories that need to jump around in the timeline.
-  * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
-  * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
-  * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
-* Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
-* You can add additional rows at the bottom of the spread sheets for more evens. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column. You can also use the "Format painter" brush as well to expand the formatting. 
