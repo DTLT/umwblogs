@@ -95,8 +95,8 @@ When you are ready to publish to the web or when you want to see how your update
 
 **Adding to WordPress**
 
-  * Open a new post
-  * Change the editor from "Visual" to "Text" if you do not change the this then It will paste the link literally and not interpret it as code
+  * Create a new post
+  * Change the editor from "Visual" to "Text," if you do not change the this then the editor will paste the link literally and not interpret it as code
 
 {{:timelinejs:in_wordpress.png?600|}}
 
