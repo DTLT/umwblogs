@@ -16,7 +16,7 @@ Fill out the spreadsheet with information for your timeline.
 Your spreadsheet should look like this:
 
 {{:timelinejs:spreadsheet_tabs.png?800|}}
-
+\\
 
 
 ===== Spreadsheet Columns =====
