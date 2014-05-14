@@ -70,10 +70,14 @@ Here is an example of how the columns will appear on your timeline.
 
 {{:timelinejs:screen_shot_timeline.png?800|}}
 
+===== Navigation =====
+
+
 You can navigate the timeline by using the arrow keys, clicking on each event, the arrows on the sides of the slide currently in view, or by dragging the time line at the bottom.
 
 
-**A few tips and common problems:**
+===== A few tips and common problems: =====
+
 
   * The time line will not work well for stories that need to jump around in the timeline.
   * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
