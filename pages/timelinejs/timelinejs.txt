@@ -31,8 +31,10 @@ The standard date format is: xx/xx/xxxx -- Month / Day / Year
 
 You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
 
-**Headline:**
 
+{{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
+
+**Headline:**
 This is where you can put a bolded title of the event.
 
 **Text:**
@@ -51,7 +53,7 @@ For a block quote use "<blockquote>" before the text and "</blockquote>" at the 
 
 **Media Thumbnail:** You can add an additional link to a photo so that that a small image will appear in the timeline to represent that slide. 
 
-**Type:** This is where you can decide wether your slide is an standard slide, a title side, or and era, by selecting options from the drop down in the cell; blank, title, era, respectively.
+**Type:** This is where you can decide wether your slide is an standard slide, a title side, or an era, by selecting options from the drop down in the cell; blank, title, era, respectively.
 
 How to use Era: Selecting the Era option will not show anything in the other fields, it will simply add a colored box and name to the timeline below to show events in your Era. It will name your era with whatever is in the respective Headline colum cell. 
 
@@ -77,6 +79,5 @@ You can navigate the timeline by using the arrow keys, clicking on each event, t
   * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
   * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
   * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
-* Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear. 
-
-{{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
+* Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
+* You can add additional rows at the bottom of the spread sheets for more evens. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column. You can also use the "Format painter" brush as well to expand the formatting. 
