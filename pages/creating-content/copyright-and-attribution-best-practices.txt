@@ -2,7 +2,19 @@
 
 #Copyright and Attribution Best Practices
 
+
 ==== What is Fair Use? ====
 
-==== Creative Commons Overview ====
+"Fair use" refers to guidelines that allow portions of copyrighted works to be used for educational purposes without prior permission from the rightsholder(s). Fair use rights are not actually protected by law; they are a set of guidelines agreed to by publishers, academics communities, and others, but they are not officially codified as part of the Copyright Act.
 
+As a result, fair use guidelines are at times vaguely defined, and it can often be difficult for a layperson without a law degree to determine where exactly the boundaries of fair and unfair use lie. Stanford University's [[http://fairuse.stanford.edu/|Copyright and Fair Use website]] does a great job of providing in-depth details about what is and is not fair use for those who are interested. Even if you are not interested in the particulars, it's important to understand that fair use provides a limited number of protections within a limited number of contexts. 
+
+Also, consider that the last major update to US copyright law was the 1998 passage of the [[http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act|Digital Millenium Copyright Act]]. For context, that happened:
+  * One year before [[http://en.wikipedia.org/wiki/Napster|Napster]] (1999)
+  * Six years before [[http://en.wikipedia.org/wiki/Facebook|Facebook]] (2004)
+  * Six years before [[http://en.wikipedia.org/wiki/Flickr|Flickr]] (2004)
+  * Seven years before [[http://en.wikipedia.org/wiki/Youtube|YouTube]] (2005)
+
+==== A Simplified Guide to Copyright ====
+
+==== Creative Commons Overview ====
