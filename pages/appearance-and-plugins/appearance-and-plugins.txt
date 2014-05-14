@@ -6,3 +6,4 @@
   * [[Changing the Theme]]
   * [[Adding and Changing Widgets]]
   * [[Creating and Editing Menus]]
+  * [[Activating Plugins]]
