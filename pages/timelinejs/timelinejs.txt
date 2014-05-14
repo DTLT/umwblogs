@@ -113,3 +113,10 @@ You can navigate the timeline by:
   * Clicking on tabs of each event
   * Using the arrows on the sides of the slide currently in view
   * By dragging the timeline at the bottom
+
+
+===== Examples of Timelines in Use =====
+
+[[http://taipingcivilwar.org/timeline|The Taiping Civil War]]   \\
+[[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|The Crisis in Egypt]]   \\
+[[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|The Life of Nelson Mandela]]   \\
