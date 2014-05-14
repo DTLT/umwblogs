@@ -17,7 +17,7 @@ Your spreadsheet should look like this:
 
 {{:timelinejs:spreadsheet_tabs.png?800|}}
 \\
-
+\\
 
 ===== Spreadsheet Columns =====
 
@@ -71,6 +71,9 @@ How to use Era: Selecting the Era option will not show anything in the other fie
 
 {{:timelinejs:screen_shot_timeline.png?800|}}
 
+\\
+\\
+
 ===== Publishing to the Web =====
 
 When you are ready to publish to the web or want to see how your updates are working you will need to publish to the web.
@@ -86,7 +89,8 @@ When you are ready to publish to the web or want to see how your updates are wor
 
 **Important Note:** The "Automatically Republish" function does not always work immediately after you have made changes. You may have to go back into that window and manually republish your timeline if you want to see your most recent changes.
 
- 
+\\
+\\
 
 
 ===== Navigation =====
