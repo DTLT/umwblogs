@@ -2,19 +2,34 @@
 
 #Copyright and Attribution Best Practices
 
+When writing a paper, it's important to provide credit to the writers, researchers, and other academics who influenced your thinking, or whose words you have used to illustrate a point. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed for similar purposes, especially on an open and highly-trafficked publishing platform like UMW Blogs.
 
-==== What is Fair Use? ====
+==== Aren't I Protected by Fair Use? ====
 
-"Fair use" refers to guidelines that allow portions of copyrighted works to be used for educational purposes without prior permission from the rightsholder(s). Fair use rights are not actually protected by law; they are a set of guidelines agreed to by publishers, academics communities, and others, but they are not officially codified as part of the Copyright Act.
+"Fair use" refers to guidelines that allow portions of copyrighted works to be used for educational purposes without prior permission from the rightsholder(s). Fair use rights are not actually protected by law; they are a set of guidelines agreed to by publishers, academics communities, and others, but they are not officially codified as part of the US Copyright Act of 1976.
 
-As a result, fair use guidelines are at times vaguely defined, and it can often be difficult for a layperson without a law degree to determine where exactly the boundaries of fair and unfair use lie. Stanford University's [[http://fairuse.stanford.edu/|Copyright and Fair Use website]] does a great job of providing in-depth details about what is and is not fair use for those who are interested. Even if you are not interested in the particulars, it's important to understand that fair use provides a limited number of protections within a limited number of contexts. 
+As a result, fair use guidelines are at times vaguely defined, and it can often be difficult for a layperson without a law degree to determine where exactly the boundary between fair and unfair use lies. Stanford University's [[http://fairuse.stanford.edu/|Copyright and Fair Use website]] does a great job of providing in-depth details about fair use for those who are interested. Even if you are not interested in the particulars, it's important to understand that fair use provides a limited number of protections within a limited number of contexts. 
 
-Also, consider that the last major update to US copyright law was the 1998 passage of the [[http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act|Digital Millenium Copyright Act]]. For context, that happened:
+Also, consider that the last major update to US copyright law was the 1998 passage of the [[http://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act|Digital Millennium Copyright Act]]. For context, that happened:
   * One year before [[http://en.wikipedia.org/wiki/Napster|Napster]] (1999)
   * Six years before [[http://en.wikipedia.org/wiki/Facebook|Facebook]] (2004)
   * Six years before [[http://en.wikipedia.org/wiki/Flickr|Flickr]] (2004)
   * Seven years before [[http://en.wikipedia.org/wiki/Youtube|YouTube]] (2005)
 
+In short, US copyright law is out-of-date in many ways, and fair use probably does not provide the protection you think it does.
+
 ==== A Simplified Guide to Copyright ====
 
+Before getting started, there are some easy questions you can ask yourself to determine whether it would be appropriate for you to use a particular piece of media. Consider the following flowchart:
+
+[{{ :creating-content:copyright-flowchart.png?nolink |}}]
+
+This is indeed a very simplified way of thinking about copyright, and this flowchart glosses over many of the details. For example:
+
+** What if I make something using others' work?**\\
+If you make a piece of media from scratch, e.g. using a camera to take a photograph, you can do whatever you want with that media. If you make a piece of media using previous work, e.g. making adjustments 
+
 ==== Creative Commons Overview ====
+
+==== Further Reading ====
+  * Stanford's [[http://fairuse.stanford.edu/|Copyright and Fair Use]] website
