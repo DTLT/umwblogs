@@ -25,44 +25,42 @@ Your spreadsheet should look like this:
 
 **Start and End Date:** The standard date format is: xx/xx/xxxx -- Month / Day / Year
 
-You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
+You can change this format by selecting the “Start Date” column, “End Date” column, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
 
 Make sure to put the dates in chronological order, the Timeline will not work well if it needs to jump around the timeline to out of order dates.
 
 
 {{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
 
-**Headline:**
-This is where you can put a bolded title of the event.
+**Headline:** This is where you can put a the title of the event.
 
-**Text:**
-This is where you can type blocks of text to describe the event in the timeline of events, but try to keep it short.
+**Text:** Here is where you can type blocks of text to describe this specific event, try to keep it short and just summarize the event.
 
-Important note: For the first row / Title slide, the text in the cell will appear as a sub-title text and you must include it.
+Important note: For the Title slide, by default it is the first row, the text in the cell will appear as a sub-title text and you must include it.
 
-**Media:**
-This is where you can add a link to your multimedia such as a picture, website, youtube video, Vimeo Video, Google map, Flickr photos, tweets, SoundCloud, and Block Quotes.
+**Media:** This is where you can add a link to your multimedia such as a picture, website, YouTube video, Vimeo Video, Google map, a Flickr photo, a Twitter tweet, SoundCloud, and a Block Quote.
 
 For a block quote use "<blockquote>" before the text and "</blockquote>" at the end of the text.
 
-**Media Credit:** You can put a credit of who or where the photo came from here.
+**Media Credit:** Here You can put a credit of who or where the photo came from.
 
 **Media Caption:** Here you can write a caption to describe your photo.
 
-**Media Thumbnail:** You can add an additional link to a photo so that that a small image will appear in the timeline to represent that slide. 
+**Media Thumbnail:** This is where you can add an additional link to a photo so that that a small image will appear in the timeline to represent that slide. 
 
 **Type:** This is where you can decide wether your slide is an standard slide, a title side, or an era, by selecting options from the drop down in the cell; blank, title, era, respectively.
 
-Using Title slide: The first "Slide" is default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
+Using Title Type: The first "Slide" is by default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
 
-How to use Era: Selecting the Era option will not show anything in the other fields, it will simply add a colored box and name to the timeline below to show events in your Era. It will name your era with whatever is in the respective Headline column cell. 
+How to use the Era Type: By selecting the Era option will Timeline will not show anything in the other fields, it will simply add an orange box and name to the timeline below to show events happening in an Era. It will name your era with whatever is in the respective Headline column cell. 
 
+**Important Notes:**
 
 * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
 * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
 * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
 * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
-* You can add additional rows at the bottom of the spread sheets for more evens. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column. You can also use the "Format painter" brush as well to expand the formatting. 
+* You can add additional rows at the bottom of the spread sheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting. 
 
 \\
 
@@ -74,18 +72,18 @@ How to use Era: Selecting the Era option will not show anything in the other fie
 
 ===== Publishing to the Web =====
 
-When you are ready to publish to the web or want to see how your updates are working you will need to publish to the web.
+When you are ready to publish to the web or when you want to see how your updates are working you will need to publish to the web.
 
-* In your spreadsheet, click on "File" at the top, then "Click publish to the Web."
-* Another window will pop up, once there Check "Automatically republish when changes are made." 
-* Uncheck all other boxes. 
-* Click "Start Publishing."
+* In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
+* Another window will pop up, once there Check the box labeled: "Automatically republish when changes are made" 
+* Uncheck all other boxes
+* Click "Start Publishing"
 * This will give you the URL to paste into the Timeline JS website.
 
 {{:timelinejs:publishing_step_1.png?350|}}{{:timelinejs:publishing_step_2.png?300|}}
 
-* From there paste the link in to The timeline Js's step 3 where it says google spreadsheet URL, will will most likely not need to change any of the rest of the settings
-* A the bottom you can either preview your timeline on the webpage or you can click link to preview and view it in another page.
+* From there paste that link in to The timeline JS's Step 3 where it says "Google spreadsheet URL." You will most likely not need to change any of the other settings
+* A the bottom you can either preview your timeline on the same webpage or you can click "Link to Preview" and view it in another page
 * As a final step you can grab the code in Timeline JS's step four to embed into your website or blog.
 
 **Important Note:** The "Automatically Republish" function does not always work immediately after you have made changes. You may have to go back into that window and manually republish your timeline if you want to see your most recent changes.
