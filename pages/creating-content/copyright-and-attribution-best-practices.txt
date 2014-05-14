@@ -26,8 +26,8 @@ Before getting started, there are some questions you can ask yourself to determi
 
 This flowchart is not intended to summarize or to provide guidance related to all use cases. It is meant to help you visualize the most basic questions you should be asking before using media on your blog. In simplifying that process, it necessarily glosses over some of the complexities inherent to copyright and attribution. For example:
   * **Making work from scratch is different than editing or remixing work that others have created.** You automatically have the right to use any work you have created from scratch. If you want to make something new based on work others have created, you need to make sure you have permission to reuse and remix each individual piece.
-  * **Determining who owns the rights to a particular media object can be tricky.**
-  * **Permission can be granted in many different ways.** Some creators uses licenses that explicitly state what individuals are permitted to with their work, and what the conditions of that permission are. For example, the documentation on this wiki is available under a Creative Commons license that allows others to edit/remix/reuse it, with the stipulation that they must both give proper attribution and allow others to edit/remix/reuse their version of the documentation. Others
+  * **Determining who owns the rights to a particular media object can be tricky.** When you find media on the web, it's not always clear exactly what the original source is, and therefore who has the authority to say under what conditions and in what contexts a particular media object may be used. Unattributed text can often be found via the most popular search engines, and [[https://www.tineye.com/|TinEye]] provides a reverse search engine that can help identify where a particular image originated. For video and audio, it may be impossible to determine the original source.
+  * **Permission can be granted in many different ways.** Some creators uses licenses that explicitly state what individuals are permitted to with their work, and what the conditions of that permission are. Others do 
 
 ==== Creative Commons Overview ====
 
