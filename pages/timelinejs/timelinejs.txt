@@ -1,4 +1,4 @@
-e====== How to Use Timeline JS ======
+====== How to Use Timeline JS ======
 \\
 \\
 
