@@ -93,7 +93,8 @@ When you are ready to publish to the web or when you want to see how your update
 
 **Important Note:** The "Automatically Republish" function does not always work immediately after you have made changes. You may have to go back into that window and manually republish your timeline if you want to see your most recent changes.
 
-**Adding to WordPress**
+==== Adding Timeline to WordPress ====
+
 
   * Create a new post
   * Change the editor from "Visual" to "Text," if you do not change the this then the editor will paste the link literally and not interpret it as code
