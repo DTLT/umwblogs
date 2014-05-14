@@ -19,15 +19,15 @@ Your spreadsheet should look like this:
 
 
 
-===== Excel Spreadsheet Columns =====
+===== Spreadsheet Columns =====
 
 
 
-**Start and End Date:**
-
-The standard date format is: xx/xx/xxxx -- Month / Day / Year
+**Start and End Date:** The standard date format is: xx/xx/xxxx -- Month / Day / Year
 
 You can change this format by selecting the entire “Start Date”, “End Date”, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
+
+Make sure to put the dates in chronological order, the Timeline will not work well if it needs to jump around the timeline to out of order dates.
 
 
 {{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
@@ -64,12 +64,9 @@ How to use Era: Selecting the Era option will not show anything in the other fie
 * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
 * You can add additional rows at the bottom of the spread sheets for more evens. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column. You can also use the "Format painter" brush as well to expand the formatting. 
 
+\\
 
-
-
-
-
-Here is an example of how the columns will appear on your timeline.
+**Here is an example of how the columns will appear on your timeline:**
 
 
 {{:timelinejs:screen_shot_timeline.png?800|}}
@@ -95,10 +92,8 @@ When you are ready to publish to the web or want to see how your updates are wor
 ===== Navigation =====
 
 
-You can navigate the timeline by using the arrow keys, clicking on each event, the arrows on the sides of the slide currently in view, or by dragging the time line at the bottom.
-
-
-===== A few tips and common problems: =====
-
-
-  * The time line will not work well for stories that need to jump around in the timeline.
+You can navigate the timeline by:
+  * Using the arrow keys
+  * Clicking on tabs of each event
+  * The arrows on the sides of the slide currently in view
+  * By dragging the timeline at the bottom
