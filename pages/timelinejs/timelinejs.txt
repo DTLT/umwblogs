@@ -67,8 +67,6 @@ How to use Era: Selecting the Era option will not show anything in the other fie
 \\
 
 **Here is an example of how the columns will appear on your timeline:**
-
-
 {{:timelinejs:screen_shot_timeline.png?800|}}
 
 \\
@@ -79,12 +77,13 @@ How to use Era: Selecting the Era option will not show anything in the other fie
 When you are ready to publish to the web or want to see how your updates are working you will need to publish to the web.
 
 * In your spreadsheet, click on "File" at the top, then "Click publish to the Web."
-{{ :timelinejs:publishing_step_1.png?200|}}
 * Another window will pop up, once there Check "Automatically republish when changes are made." 
 * Uncheck all other boxes. 
 * Click "Start Publishing."
 * This will give you the URL to paste into the Timeline JS website.
-{{ :timelinejs:publishing_step_2.png?200|}}
+
+{{:timelinejs:publishing_step_1.png?250|}}{{:timelinejs:publishing_step_2.png?200|}}
+
 * From there paste the link in to The timeline Js's step 3 where it says google spreadsheet URL, will will most likely not need to change any of the rest of the settings
 * A the bottom you can either preview your timeline on the webpage or you can click link to preview and view it in another page.
 * As a final step you can grab the code in Timeline JS's step four to embed into your website or blog.
