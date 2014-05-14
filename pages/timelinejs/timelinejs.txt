@@ -100,5 +100,5 @@ When you are ready to publish to the web or want to see how your updates are wor
 You can navigate the timeline by:
   * Using the arrow keys
   * Clicking on tabs of each event
-  * The arrows on the sides of the slide currently in view
+  * Using the arrows on the sides of the slide currently in view
   * By dragging the timeline at the bottom
