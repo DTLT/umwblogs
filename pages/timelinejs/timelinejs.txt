@@ -9,7 +9,7 @@ Go to: [[http://timeline.knightlab.com/|http://timeline.knightlab.com/]]
 
 You can also refer to the instructions on their webpage.
 
-Download the "Google Drive Spreadsheet Template" and save a copy of their spreadsheet.\\
+Download the "Google Spreadsheet Template" and save a copy of their spreadsheet.\\
 [[https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public|Link to spread sheet]]
 
 Fill out the spreadsheet with information for your timeline.
