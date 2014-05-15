@@ -1,1 +1,1 @@
-#Using Google's Spreadsheet Mapper
+#Google Spreadsheet Mapper
