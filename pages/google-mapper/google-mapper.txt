@@ -118,9 +118,28 @@ Template5:
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
 
 
+**Variable Columns Based on the selected Templates:**
+
+These Columns below change what they do and what Inputs they need depending on what is typed into the template column on the far left.
+
+{{:google-mapper:variable_colums.png?200|}}
+
+
+When you type in a new template (Template1, Template2, etc.) into the second column it changes the heading to help you enter data based on what type of point you would like to use.
+
+You can refer to is master key on what each template needs you to enter in each column.
+
+{{:google-mapper:template_master_key.png?200|}}
+
+
+
+
+
 ===== Adding Points =====
 
-Start to fill out your 
+Start to fill out your Columns with information
+
+
 
 
 
