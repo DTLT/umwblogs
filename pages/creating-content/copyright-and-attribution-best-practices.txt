@@ -28,11 +28,23 @@ This flowchart is not intended to summarize or to provide guidance related to al
   * **Permission can be sought, and granted, in many different ways.** For example, you can research a media object to determine whether it is in the public domain. (Given the way our copyright system works, this is more likely for historical objects.) If you can determine the creator of the work, you can contact them directly to explain what you want to do and ask if it's okay. Some creators and rightsholders label their works with licenses that explicitly state what individuals are permitted to with their work, and what the conditions of that permission are.
   * **In some cases, you might have to decide how to proceed without permission.** Sometimes, it's not necessary to use a particular work, and you can find an alternative for which the rights situation is clear. (Do you really have to use *that* image of an eagle? Or would a different image of a different eagle suffice?) For academic projects where it's very important or necessary that you use a particular image, but the rights situation is unclear, ask your professor for advice on how to proceed.
 
-==== Creative Commons and You ====
+==== Easy Alternatives ====
 
-One way to avoid many of the legal complexities of traditional copyright is to 
+**Creative Commons**
+
+One way to avoid the complexities of traditional copyright is to take advantage of alternative licenses. Creative Commons licenses, for example, make it very easy to determine what you can use, and how you can use it. 
+
+[{{ :creating-content:cc-search.png?nolink&650 |}}]
+
+By using the [[http://search.creativecommons.org/|Creative Commons search engine]], you can easily find images, audio, video, and other kinds of media that are ready for you to reuse and remix. Simply type your keyword(s) into the box, uncheck "use for commercial purposes," and click the site you'd like to search. If you will not be make any changes to the image (no cropping, no including it with other images, etc), you can also uncheck "modify, adapt, or build upon" to see a larger number of results.
+
+**The Noun Project**
+
+**Archive.org**
 
 ==== Giving Attribution ====
+
+
 
 ==== Links and Resources ====
   * Stanford's Copyright & Fair Use website
