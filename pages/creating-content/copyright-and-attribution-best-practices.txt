@@ -67,8 +67,7 @@ For CC-licensed objects, the license will specify whether you need to provide at
 For traditionally-copyrighted items you've gotten permission to use, you will almost certainly need to provide attribution, and (unless specified otherwise by the rightsholder) the method described for CC-licensed materials works in this context as well. 
 
 ==== Links and Resources ====
-  * Stanford's Copyright & Fair Use website
-  * TinEye Reverse Image Search
-  * Creative Commons Search Engine
-  * [[http://www.openculture.com/|Open Culture]] (free cultural & educational media)
-  * Creative Commons Attribution Tips
+  * [[http://fairuse.stanford.edu|Stanford's Copyright & Fair Use website]]
+  * [[http://tineye.com|TinEye Reverse Image Search]]
+  * [[http://search.creativecommons.org|Creative Commons Search Engine]]
+  * [[http://wiki.creativecommons.org/Marking/Users|Creative Commons Attribution Tips]]
