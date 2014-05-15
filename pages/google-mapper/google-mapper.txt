@@ -1,1 +1,106 @@
-#Google Spreadsheet Mapper
+====== How to use Google Spreadsheet Mapper ======
+
+===== Getting started =====
+
+Go to the google spreadsheet mapper tutorial at:
+[[http://www.google.com/earth/outreach/tutorials/spreadsheet3.html]]
+
+Download template Spreadsheet
+Or Click here: [[https://docs.google.com/spreadsheet/ccc?pli=1&key=0AmRwQGTwte_UdHh0anlRVENUTXJ2NWFGOWd2SENYUGc&newcopy|Template]]
+
+
+Open the Template and save a copy.
+
+Open the sheet at the bottom labeled "PlacemarkData", Delete the sample information in the sheet.
+
+
+**A VERY IMPORTANT DETOUR**
+
+If you look through the sheet, “PlacemarkData,” you’ll notice that there is about 1,000 rows. Each row is running some computer code. All of these empty rows are using up a lot of computer power. Best case it will cause your spreadsheet to run very slowly. In the worst case scenario this will cause your entire spreadsheet to stop working.
+
+You should delete as many rows as possible, you can always re-add them later. It would be good to delete least 900 rows, most projects will not require more 100 data points. You can only delete 500 at a time, so you will have repeat this process.
+
+So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
+
+{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?200|}}
+
+An an authorization screen will pop up, click "Ok".
+
+{{:google-mapper:authorization.png?200|}}
+
+Another screen will pop up and click "Accept".
+
+{{:google-mapper:accept.png?200|}}
+
+Remove the desired amount of rows.
+
+{{:google-mapper:remove_500.png?200|}}
+
+This process will take a moment to delete the rows and then to process the table. 
+
+Sometimes Google Drive does not process the spreadsheet correctly so it is recommended to run the repair tool as well. 
+
+To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
+
+{{:google-mapper:spreadsheet_mapper_repair.png?200|}}
+
+
+A confirmation box will pop up, click "OK"
+
+{{:google-mapper:repair_confirm.png?200|}}
+
+Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
+
+{{:google-mapper:repair_completed.png?200|}}
+
+
+If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
+
+
+
+===== Publishing to web =====
+
+One of the important first steps is to set up the publishing options.
+
+Click "File" at the top and then click, "Publish to Web."
+
+{{:google-mapper:file_publish_to_web.png?200|}}
+
+
+Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
+
+**Important Note:** __You will need to manually republish after you make updates.__
+
+
+
+===== Columns Explained =====
+
+**Folder Name:** is to help organize your points once they are mapped in a collapsible folder, is an optional addition to the program.
+
+**Placemark Name:** is the Unique name of the place, it will appear on the left column.
+
+**Latitude and Longitude:** This is the prefered method of using the Spreadsheet mapper. By using the latitude and Longitude it will make your map run faster, beucase if you use address then it will have to search for your address and then map it. The simplest way to get the latitude and longitude of a place is to just do a google search, most important and popular places already have it readily available. If it is not readily available you can access it a few different ways.
+
+1) Right click on your place in google maps and then click “Whats here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
+
+2) A the bottom of the left side white column there is a option called “Google Map Labs.” In here you can activate two tools that can help you: “LatLng Tooltip” and “LatLng Marker.”
+
+LatLng Tool Tip: Enable the tool in the “Map Labs” menu and hold shift to display the latitude and Longitude.
+
+LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps when you find your point, right click, and in the menu click “Drop LatLng marker.”
+
+**Address:** Do not use this column, the functionality is poor and it will adversely affect your map.
+
+**Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
+
+Template1:
+
+Template2
+
+Template3
+
+Template4  
+
+Template5
+
+Template6: Does not work in google maps, but does work in Google Earth.
