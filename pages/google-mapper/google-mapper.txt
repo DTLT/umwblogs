@@ -99,14 +99,37 @@ LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps wh
 
 **Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
 
+Here are photos of how the colums will be displayed in Google Maps.
+
 Template1:
 
-Template2
+{{:google-mapper:template_1.png?200|}}
 
-Template3
+Template2:
 
-Template4  
+{{:google-mapper:template_2.png?200|}}
 
-Template5
+Template3:
 
-Template6: Does not work in google maps, but does work in Google Earth.
+{{:google-mapper:template_3.png?200|}}
+
+Template4:
+
+{{:google-mapper:template_4.png?200|}}
+
+Template5:
+
+{{:google-mapper:template_5.png?200|}}
+
+Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
+
+
+====== Errors: ======
+
+==== Script Error: ====
+
+
+First thing to do is to follow the steps from above and delete rows
+Then Repair errors
+Then Exit the Google drive spreadsheet, drive, and close the browser
+Wait a few minutes 10-20 minutes. Sometimes there is a residual error built up in the google server. This is most likely due to a self defense mechanism in the code of the server to keep a user from crashing the server by using up too much computing power.
