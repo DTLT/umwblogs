@@ -102,7 +102,7 @@ LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps wh
 
 Here are photos of how the colums will be displayed in Google Maps.
 
-Template1:
+Template1:                                     
 {{:google-mapper:template_1.png?200|}}
 
 Template2:
