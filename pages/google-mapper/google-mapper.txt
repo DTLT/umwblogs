@@ -1,5 +1,8 @@
 ====== How to use Google Spreadsheet Mapper ======
 
+\\
+\\
+
 ===== Getting started =====
 
 Go to the google spreadsheet mapper tutorial at:
@@ -13,6 +16,7 @@ Open the Template and save a copy.
 
 Open the sheet at the bottom labeled "PlacemarkData", Delete the sample information in the sheet.
 
+\\
 
 **A VERY IMPORTANT DETOUR**
 
@@ -56,7 +60,8 @@ Once google drive has repaired the Rows and formulas another box will pop up to 
 
 If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
 
-
+\\
+\\
 
 ===== Publishing to web =====
 
@@ -71,7 +76,8 @@ Another window will pop up, Uncheck “Automatically republish when changes are 
 
 **Important Note:** __You will need to manually republish after you make updates.__
 
-
+\\
+\\
 
 ===== Columns Explained =====
 
