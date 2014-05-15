@@ -82,6 +82,9 @@ Another window will pop up, Uncheck “Automatically republish when changes are 
 
 ===== Columns Explained =====
 
+==== Static Columns ====
+
+
 **Folder Name:** is to help organize your points once they are mapped in a collapsible folder, is an optional addition to the program.
 
 **Placemark Name:** is the Unique name of the place, it will appear on the left column.
@@ -118,18 +121,19 @@ Template5:
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
 
 
-**Variable Columns Based on the selected Templates:**
+==== Variable Columns ====
 
-These Columns below change what they do and what Inputs they need depending on what is typed into the template column on the far left.
 
-{{:google-mapper:variable_colums.png?200|}}
+These Columns, as pictured below change what inputs need and to be entered into the respective cells depending on what type of template is entered into the far left column.
+
+{{:google-mapper:variable_colums.png?800|}}
 
 
 When you type in a new template (Template1, Template2, etc.) into the second column it changes the heading to help you enter data based on what type of point you would like to use.
 
 You can refer to is master key on what each template needs you to enter in each column.
 
-{{:google-mapper:template_master_key.png?200|}}
+{{:google-mapper:template_master_key.png?800|}}
 
 
 
