@@ -48,9 +48,9 @@ To find an image, visit The Noun Project and type your keyword into the search b
 
 **Archive.org**
 
-Many people are familiar with the Wayback Machine, which lets you browse websites as they looked in the past. (Check out [[https://web.archive.org/web/20040520055337/http://www.umw.edu/|UMW's homepage from May 20th, 2004]].) Archive.org also provides access to a repository of public domain and CC-licensed audio, video, and text.
+Many people are familiar with the Wayback Machine, which lets you browse websites as they looked in the past. (Check out [[https://web.archive.org/web/20040520055337/http://www.umw.edu/|UMW's homepage]] from May 20th, 2004.) Archive.org also provides access to a repository of public domain and CC-licensed audio, video, and text.
 
-{{ :creating-content:archive-eagle.png?nolink&650 |}}
+[{{ :creating-content:archive-eagle.png?nolink |}}]
 
 Just visit the Archive.org homepage and type your keyword(s) into the search box near the top left. You can search all media types at once, or if you are looking for something specific, use the drop-down menu to pick the kind of media you are looking for.
 
