@@ -1,5 +1,6 @@
 ====== How to use Google Spreadsheet Mapper ======
 
+
 \\
 \\
 
@@ -124,9 +125,12 @@ Template5:
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
 
 
-====== Errors: ======
+===== Errors: =====
+
+
 
 ==== Script Error: ====
+
 
 
 First thing to do is to follow the steps from above and delete rows
