@@ -100,7 +100,7 @@ You will need to convert your latitude and longitude to XX.XXXX, The degrees the
 
 Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). Therefor South and West become negative numbers. Refer to the image below for help.
 
-{{:google-mapper:coordinates_explination.png?600|}}
+{{:google-mapper:coordinates_explination.png?800|}}
 
 **Address:** Do not use this column, the functionality is poor and it will adversely affect your map.
 
