@@ -126,7 +126,7 @@ Template6: This template does not work in google maps, but does work in Google E
 
 These Columns, as pictured below change what inputs need and to be entered into the respective cells depending on what type of template is entered into the far left column.
 
-{{:google-mapper:variable_colums.png?800|}}
+{{:google-mapper:variable_columns.png?800|}}
 
 
 When you type in a new template (Template1, Template2, etc.) into the second column it changes the heading to help you enter data based on what type of point you would like to use.
