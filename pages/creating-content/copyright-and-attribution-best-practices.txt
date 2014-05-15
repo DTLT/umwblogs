@@ -4,11 +4,6 @@
 
 When writing a paper, it's important to provide credit to the writers, researchers, academics, and others who influenced your thinking, or whose words you have used. This is usually done through the use of footnotes, endnotes, and/or bibliographies. It's just as important to provide credit to creators of images, audio, video, and other kinds of media you have used or remixed, especially on an open and highly-trafficked publishing platform like UMW Blogs.
 
-==== Why Does Giving Credit Matter? ====
-
-Through projects like UMW Blogs, DS106, and Domain of One's Own, UMW has a history of encouraging students to participate meaningfully on the web, including sharing their work widely for everyone's benefit. 
-
-
 ==== Aren't I Protected by Fair Use? ====
 
 "Fair use" refers to guidelines that allow portions of copyrighted works to be used for educational purposes without prior permission from the rightsholder(s). Fair use rights are not actually protected by law; they are a set of guidelines agreed to by publishers, academics communities, and others, but they are not officially codified as part of the US Copyright Act of 1976.
