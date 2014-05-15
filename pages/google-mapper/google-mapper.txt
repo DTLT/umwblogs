@@ -86,9 +86,9 @@ Another window will pop up, Uncheck “Automatically republish when changes are 
 
 **Placemark Name:** is the Unique name of the place, it will appear on the left column.
 
-**Latitude and Longitude:** This is the prefered method of using the Spreadsheet mapper. By using the latitude and Longitude it will make your map run faster, beucase if you use address then it will have to search for your address and then map it. The simplest way to get the latitude and longitude of a place is to just do a google search, most important and popular places already have it readily available. If it is not readily available you can access it a few different ways.
+**Latitude and Longitude:** This is the preferred method of using the Spreadsheet mapper. By using the latitude and Longitude it will make your map run faster, because if you use address then it will have to search for your address and then map it. The simplest way to get the latitude and longitude of a place is to just do a google search. Most important and popular places already have the Latitude and Longitude readily available. If it is not readily available you can access it a few different ways.
 
-1) Right click on your place in google maps and then click “Whats here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
+1) Right click on your place in google maps and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
 
 2) A the bottom of the left side white column there is a option called “Google Map Labs.” In here you can activate two tools that can help you: “LatLng Tooltip” and “LatLng Marker.”
 
@@ -96,11 +96,17 @@ LatLng Tool Tip: Enable the tool in the “Map Labs” menu and hold shift to di
 
 LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps when you find your point, right click, and in the menu click “Drop LatLng marker.”
 
+You will need to convert your latitude and longitude to XX.XXXX, The degrees then hours and minutes as a decimal.
+
+Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). Therefor South and West become negative numbers. Refer to the image below for help.
+
+{{:google-mapper:coordinates_explination.png?200|}}
+
 **Address:** Do not use this column, the functionality is poor and it will adversely affect your map.
 
 **Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
 
-Here are photos of how the colums will be displayed in Google Maps.
+Here are photos of how the columns will be displayed in Google Maps.
 
 Template1:{{:google-mapper:template_1.png?200|}}   Template2:{{:google-mapper:template_2.png?200|}}
 
@@ -110,6 +116,13 @@ Template5:
 {{:google-mapper:template_5.png?200|}}
 
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
+
+
+===== Adding Points =====
+
+Start to fill out your 
+
+
 
 
 ===== Errors: =====
