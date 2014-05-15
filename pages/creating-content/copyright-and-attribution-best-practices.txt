@@ -54,13 +54,13 @@ Many people are familiar with the Wayback Machine, which lets you browse website
 
 Just visit the Archive.org homepage and type your keyword(s) into the search box near the top left. You can search all media types at once, or if you are looking for something specific, use the drop-down menu to pick the kind of media you are looking for.
 
-**Open Culture**
-
-
-
 ==== Giving Attribution ====
 
+If an object you are using is in the public domain, that generally means it is free for you to use, remix, remake, etc with no restrictions, and no need to provide attribution (i.e. to disclose who made it and where it came from). There are [[http://fairuse.stanford.edu/overview/public-domain/|some exceptions to that general rule]], of course, especially regarding famous objects (old movies, iconic images and photographs, etc). Most of the time, however, you should be okay to use objects in the public domain.
 
+For CC-licensed objects, the license will specify whether you need to provide attribution. If so, the Creative Commons website has [[http://wiki.creativecommons.org/Marking/Users|a guide that walks you through how to do this correctly]].
+
+For traditionally-copyrighted items you've gotten permission to use, you will almost certainly need to provide attribution, and the method described for CC-licensed materials works in this context as well. 
 
 ==== Links and Resources ====
   * Stanford's Copyright & Fair Use website
