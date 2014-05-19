@@ -170,7 +170,7 @@ One of the important first steps is to set up the publishing options.
 
 Click "File" at the top and then click, "Publish to Web."
 
-{{:google-mapper:file_publish_to_web.png?200|}}
+{{:google-mapper:file_publish_to_web.png?300|}}
 
 
 Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
@@ -183,13 +183,16 @@ Another window will pop up, Uncheck “Automatically republish when changes are 
 ===== Embedding in WordPress =====
 
 Open your spreadsheet map in google maps and click the "chain" icon at the top left.
-{{:google-mapper:embed_step_one.png?200|}}
+
+{{:google-mapper:embed_step_one.png?300|}}
 
 In the pop up window copy the embed code.
-{{:google-mapper:embed_step_two.png?200|}}
+
+{{:google-mapper:embed_step_two.png?300|}}
 
 Open your Wordpress dashboard and make a new post. Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret your link as code and display it properly. You can also edit how large your map appears in your post by adjusting the Width and Height code at the beginning of the embed code. 
-{{:google-mapper:adding_to_wordpress.png?200|}}
+
+{{:google-mapper:adding_to_wordpress.png?300|}}
 
 
 
