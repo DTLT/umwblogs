@@ -6,6 +6,7 @@
   * [[creating-content:Creating a Post]]
   * [[creating-content:Creating a Page]]
   * [[creating-content:Visual Editor vs Text Editor]]
+  * [[creating-content:Uploading and Displaying Files]]
   * [[creating-content:Embedding Videos]]
   * [[creating-content:Embedding PDFs]]
   * [[creating-content:Copyright and Attribution Best Practices]]
