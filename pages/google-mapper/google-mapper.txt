@@ -64,21 +64,6 @@ If you are still having problems please see the Errors section at the end of thi
 \\
 \\
 
-===== Publishing to web =====
-
-One of the important first steps is to set up the publishing options.
-
-Click "File" at the top and then click, "Publish to Web."
-
-{{:google-mapper:file_publish_to_web.png?200|}}
-
-
-Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
-
-**Important Note:** __You will need to manually republish after you make updates.__
-
-\\
-\\
 
 ===== Columns Explained =====
 
@@ -179,15 +164,45 @@ Template5:
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread for now.
 
 
+===== Publishing to web =====
+
+One of the important first steps is to set up the publishing options.
+
+Click "File" at the top and then click, "Publish to Web."
+
+{{:google-mapper:file_publish_to_web.png?200|}}
+
+
+Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
+
+**Important Note:** __You will need to manually republish after you make updates.__
+
+\\
+\\
+
+===== Embedding in WordPress =====
+
+Open your spreadsheet map in google maps and click the "chain" icon at the top left.
+{{:google-mapper:embed_step_one.png?200|}}
+
+In the pop up window copy the embed code.
+{{:google-mapper:embed_step_two.png?200|}}
+
+Open your Wordpress dashboard and make a new post. Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret your link as code and display it properly. You can also edit how large your map appears in your post by adjusting the Width and Height code at the beginning of the embed code. 
+{{:google-mapper:adding_to_wordpress.png?200|}}
+
+
+
 
 
 ===== Tips: =====
 
-Be Patient because Google drive / spreadsheets takes a few moments to process your changes.
+Be Patient because it will take Google drive and the codes in the spreadsheets a few moments to process your changes.
+
+Do not forget to republish your edits after you make them! Refer to Publishing to the web section
 
 
 ===== Errors: =====
-
 
 
 ==== Script Error: ====
