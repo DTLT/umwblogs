@@ -52,11 +52,11 @@ To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & F
 
 A confirmation box will pop up, click "OK"
 
-{{:google-mapper:repair_confirm.png?400|}}
+{{:google-mapper:repair_confirm.png?300|}}
 
 Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
 
-{{:google-mapper:repair_completed.png?400|}}
+{{:google-mapper:repair_completed.png?300|}}
 
 
 If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
