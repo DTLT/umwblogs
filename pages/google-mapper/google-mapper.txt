@@ -176,19 +176,14 @@ Template3:{{:google-mapper:template_3.png?200|}}   Template4:{{:google-mapper:te
 Template5:
 {{:google-mapper:template_5.png?200|}}
 
-Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread yet.
+Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread for now.
 
 
 
 
+==== Tips: ====
 
-===== Adding Points =====
-
-Start to fill out your Columns with information
-
-
-
-
+Be Patient because Google drive / spreadsheets takes a few moments to process your changes.
 
 
 ===== Errors: =====
