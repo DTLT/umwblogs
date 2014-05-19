@@ -121,7 +121,7 @@ These columns will appear on the left side of the screen like this:
 
 {{:google-mapper:first_set_of_colums.png?200|}}
 
-//d
+//
 //
 
 ==== Variable Columns ====
@@ -181,7 +181,7 @@ Template6: This template does not work in google maps, but does work in Google E
 
 
 
-==== Tips: ====
+===== Tips: =====
 
 Be Patient because Google drive / spreadsheets takes a few moments to process your changes.
 
