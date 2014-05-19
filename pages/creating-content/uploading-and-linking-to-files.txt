@@ -1,0 +1,52 @@
+{{indexmenu_n>7}}
+
+#Uploading and Linking to Files
+
+In addition to organizing and managing images, the Media Library is also responsible for handling all documents you upload into your WordPress installation.
+
+==== Accessing the Media Library ====
+
+[{{ :creating-content:visual-editor.png?nolink |}}]
+
+//While editing a post:// Click **Add Media** to link to existing documents, or to upload a new document. This is the primary method for accessing the Media Library, as it allows you to both upload a document and place it in a post/page at the same time.
+
+[{{ :creating-content:media-library.png?nolink |}}]
+
+//From the dashboard:// Go to **Media -> Library** to view documents you've already uploaded, or **Media -> Add New** to upload new documents. This method is useful for uploading documents you want to use later.
+
+==== Uploading Documents to the Library ====
+
+**Using a Document from Your Computer**
+
+[{{ :creating-content:insert-media.png?nolink&600 |}}]
+
+Click **Add Media** from the post/page editor to go to the Upload Files tab of the Media Library. When uploading files, you may either drag and drop documents into the marked section of the browser window, or click **Select Files** to find the documents you want to upload on your computer. Pay attention to the current maximum upload file size limit, and make sure each document you upload is below the designated limit.
+
+**Using a Previously-Uploaded Document**
+
+[{{ :creating-content:insert-media-from-library.png?nolink&600 |}}]
+
+If you would like to re-use an document you have previously uploaded to your WordPress Media Library, simply click **Media Library**, find the document you want to use, and click on it. 
+
+==== Setting Document Options ====
+
+[{{ :creating-content:insert-eagle-facts.png?nolink&600 |}}]
+
+1)  After uploading your document or selecting it from the Media Library, you will have the opportunity to enter additional details, and to set display settings. The most important of the text-based details are the:
+  * //Caption//, which should contain copyright / licensing information about the document (if applicable), and the
+  * //Alt Text//, which will be displayed if a person's browser cannot display images, or if a person is using a screen reader to access your blog. If you do not enter Alt Text for your images, screen readers could potentially get stuck and be unable to load the rest of your blog.
+
+You may also wish to enter text into the Description field, and whether or not this is displayed will depend on what theme you are using. Each of these text fields accepts basic HTML (e.g. anchor tags to create links). 
+
+2)   Under Attachment Display Settings, there are three drop-downs that provide you with options about how the image is displayed:
+  * //Alignment//: whether the image is justified to the left, right, or center
+  * //Link to//: where a visitor is taken when they click on the image. This can be useful if you are embedding a very large image that cannot be displayed at full size within the post/page you are creating; if you set this option to **Media File**, visitors can click on the embedded image to see a full-size version. If you are not embedding an image that needs to be viewed at full size, you can prevent the image from being clickable by setting this option to **None**.
+  * //Size//: whenever you upload an image, the WordPress Media Library automatically generates copies of the image at standardized sizes. Pick which version should be embedded into your post/page; the optimal size depends on your theme, but usually 600px is a good place to start.
+
+3)  When you are finished, click **Insert Into Post/Page** to continue editing your post/page.
+
+==== Changing Image Options ====
+
+[{{ :creating-content:image-edit.png?nolink |}}]
+
+You can make changes to an embedded image by clicking on it in the post/page editor. Two new icons will appear in the top left-hand corner of the image. To make changes, click **Edit Image**, and to remove the image, click **Delete Image**. This will delete the image from your post, but it will remain in your Media Library for later use.

@@ -1,0 +1,214 @@
+====== How to use Google Spreadsheet Mapper ======
+
+
+\\
+\\
+
+===== Getting started =====
+
+Go to the google spreadsheet mapper tutorial at:
+[[http://www.google.com/earth/outreach/tutorials/spreadsheet3.html]]
+
+Download template Spreadsheet
+Or Click here: [[https://docs.google.com/spreadsheet/ccc?pli=1&key=0AmRwQGTwte_UdHh0anlRVENUTXJ2NWFGOWd2SENYUGc&newcopy|Template]]
+
+
+Open the Template and save a copy.
+
+Open the sheet at the bottom labeled "PlacemarkData", Delete the sample information in the sheet.
+
+\\
+
+**A VERY IMPORTANT DETOUR**
+
+If you look through the sheet, “PlacemarkData,” you’ll notice that there is about 1,000 rows. Each row is running some computer code. All of these empty rows are using up a lot of computer power. Best case it will cause your spreadsheet to run very slowly. In the worst case scenario this will cause your entire spreadsheet to stop working.
+
+You should delete as many rows as possible, you can always re-add them later. It would be good to delete least 900 rows, most projects will not require more 100 data points. You can only delete 500 at a time, so you will have repeat this process.
+
+So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
+
+{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?600|}}
+
+An an authorization screen will pop up, click "Ok".
+
+{{:google-mapper:authorization.png?400|}}
+
+Another screen will pop up and click "Accept".
+
+{{:google-mapper:accept.png?400|}}
+
+Remove the desired amount of rows.
+
+{{:google-mapper:remove_500.png?400|}}
+
+This process will take a moment to delete the rows and then to process the table. 
+
+Sometimes Google Drive does not process the spreadsheet correctly so it is recommended to run the repair tool as well. 
+
+To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
+
+{{:google-mapper:spreadsheet_mapper_repair.png?600|}}
+
+
+A confirmation box will pop up, click "OK"
+
+{{:google-mapper:repair_confirm.png?300|}}
+
+Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
+
+{{:google-mapper:repair_completed.png?300|}}
+
+
+If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
+
+\\
+\\
+
+
+===== Columns Explained =====
+
+==== Static Columns ====
+
+
+**Folder Name:** is to help organize your points once they are mapped in a collapsible folder, is an optional addition to the program.
+
+**Placemark Name:** is the Unique name of the place, it will appear on the left column.
+
+**Latitude and Longitude:** This is the preferred method of using the Spreadsheet mapper. By using the latitude and Longitude it will make your map run faster, because if you use address then it will have to search for your address and then map it. The simplest way to get the latitude and longitude of a place is to just do a google search. Most important and popular places already have the Latitude and Longitude readily available. If it is not readily available you can access it a few different ways.
+
+1) Right click on your place in google maps and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
+
+{{:google-mapper:latlng_marker_activated.png?300|}}
+
+2) A the bottom of the left side white column there is a option called “Map Labs.” In here you can activate two tools that can help you: “LatLng Tooltip” and “LatLng Marker.”
+
+{{:google-mapper:map_labels.png?300|}} {{:google-mapper:enable_tools.png?300|}}
+
+
+
+LatLng Tool Tip: Enable the tool in the “Map Labs” menu and hold shift to display the latitude and Longitude.
+
+{{:google-mapper:latlng_tooltip_activated.png?300|}}
+
+LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps when you find your point, right click, and in the menu click “Drop LatLng marker.”
+
+{{:google-mapper:right_click_drop_lantlng_marker.png?300|}}
+
+You will need to convert your latitude and longitude to a standard format of XX.XXXX. The degrees, then hours, and then minutes need to be a displayed as a decimal.
+
+Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). North and East are positive and South and West become negative numbers. Refer to the image below for help.
+
+{{:google-mapper:coordinates_explination.png?800|}}
+
+**Address:** Do not use this column, the functionality is poor and it will adversely affect your map.
+
+These columns will appear on the left side of the screen like this:
+
+{{:google-mapper:first_set_of_colums.png?200|}}
+
+//
+//
+
+==== Variable Columns ====
+
+
+These Columns, as pictured below change what inputs need and to be entered into the respective cells depending on what type of template is entered into the far left column.
+
+{{:google-mapper:variable_columns.png?800|}}
+
+
+When you type in a new template (Template1, Template2, etc.) into the second column it changes the heading to help you enter data based on what type of point you would like to use.
+
+You can refer to is master key on what each template needs you to enter in each column.
+
+{{:google-mapper:template_master_key.png?800|}}
+
+**Additional Columns Explained:**
+
+**Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
+
+**Title:** This will be what you want to name your point
+
+**Subtitle:** This is your subtitle.
+
+**Paragraph 1 Text:** This is where you can type block text about your point.
+
+**Paragraph 2 Text:** This only appears for Template 1 and 2 but you can put additional text here. 
+
+**Image URL:** This is only available for Template 3 and 4 and this is where you put a link to an Image that you want to be displayed. 
+
+**Image Width and Image Height:** This is where you can specify the desired size of your image in pixels ex.: 300 X 400.
+
+**Paragraph Text:** This is available for templates 2-4 to allow you to type block text for your images or links.
+
+**Link URL:** This allows you in every template to include a link to another site. 
+
+**Link Text:** The link Text will be how the Link URL is displayed within your pop up window to shorten it, just like how a hyperlink is used. 
+
+**Video Embed Code:** This will allow you to Embed a video into your popup window from the web, such as Youtube or Vimeo. Make sure you use a Embed code and not a link. A link will work as well, but it will not allow the video to play directly from your point in google maps.
+
+**Other Embed Code:** This does not work in google maps.
+
+
+
+
+Here are photos of how the columns will be displayed in Google Maps.
+
+Template1:{{:google-mapper:template_1.png?250|}}   Template2:{{:google-mapper:template_2.png?250|}}
+
+Template3:{{:google-mapper:template_3.png?250|}}   Template4:{{:google-mapper:template_4.png?250|}}
+
+Template5:
+{{:google-mapper:template_5.png?250|}}
+
+Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread for now.
+
+
+===== Publishing to web =====
+
+One of the important first steps is to set up the publishing options.
+
+Click "File" at the top and then click, "Publish to Web."
+
+{{:google-mapper:file_publish_to_web.png?200|}}
+
+
+Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
+
+**Important Note:** __You will need to manually republish after you make updates.__
+
+\\
+\\
+
+===== Embedding in WordPress =====
+
+Open your spreadsheet map in google maps and click the "chain" icon at the top left.
+{{:google-mapper:embed_step_one.png?200|}}
+
+In the pop up window copy the embed code.
+{{:google-mapper:embed_step_two.png?200|}}
+
+Open your Wordpress dashboard and make a new post. Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret your link as code and display it properly. You can also edit how large your map appears in your post by adjusting the Width and Height code at the beginning of the embed code. 
+{{:google-mapper:adding_to_wordpress.png?200|}}
+
+
+
+
+
+===== Tips: =====
+
+Be Patient because it will take Google drive and the codes in the spreadsheets a few moments to process your changes.
+
+Do not forget to republish your edits after you make them! Refer to Publishing to the web section
+
+
+===== Errors: =====
+
+
+==== Script Error: ====
+
+
+
+First thing to do is to follow the steps from above In the "Detour" above, delete and repair rows. 
+Then sign out of Google drive and close the browser.
+Wait 10-20 minutes. Sometimes there is a residual error built up in the google server. This is most likely due to a self defense mechanism in the code of the server to keep a user from crashing the server by using up too much computing power.
