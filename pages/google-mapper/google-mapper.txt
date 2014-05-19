@@ -31,15 +31,15 @@ So Click “Spreadsheet Mapper” at the top, and then click, “Remove some row
 
 An an authorization screen will pop up, click "Ok".
 
-{{:google-mapper:authorization.png?600|}}
+{{:google-mapper:authorization.png?400|}}
 
 Another screen will pop up and click "Accept".
 
-{{:google-mapper:accept.png?600|}}
+{{:google-mapper:accept.png?400|}}
 
 Remove the desired amount of rows.
 
-{{:google-mapper:remove_500.png?600|}}
+{{:google-mapper:remove_500.png?400|}}
 
 This process will take a moment to delete the rows and then to process the table. 
 
@@ -47,16 +47,16 @@ Sometimes Google Drive does not process the spreadsheet correctly so it is recom
 
 To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
 
-{{:google-mapper:spreadsheet_mapper_repair.png?200|}}
+{{:google-mapper:spreadsheet_mapper_repair.png?600|}}
 
 
 A confirmation box will pop up, click "OK"
 
-{{:google-mapper:repair_confirm.png?200|}}
+{{:google-mapper:repair_confirm.png?400|}}
 
 Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
 
-{{:google-mapper:repair_completed.png?200|}}
+{{:google-mapper:repair_completed.png?400|}}
 
 
 If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
