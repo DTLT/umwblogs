@@ -184,17 +184,17 @@ Another window will pop up, Uncheck “Automatically republish when changes are 
 
 Open your spreadsheet map in google maps and click the "chain" icon at the top left.
 
-{{:google-mapper:embed_step_one.png?400|}}
+{{:google-mapper:embed_step_one.png?600|}}
 
 
 In the pop up window copy the embed code.
 
-{{:google-mapper:embed_step_two.png?400|}}
+{{:google-mapper:embed_step_two.png?600|}}
 
 
 Open your Wordpress dashboard and make a new post. Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret your link as code and display it properly. You can also edit how large your map appears in your post by adjusting the Width and Height code at the beginning of the embed code. 
 
-{{:google-mapper:adding_to_wordpress.png?600|}}
+{{:google-mapper:adding_to_wordpress.png?800|}}
 
 
 
