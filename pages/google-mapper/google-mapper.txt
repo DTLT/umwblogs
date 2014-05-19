@@ -109,9 +109,9 @@ LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps wh
 
 {{:google-mapper:right_click_drop_lantlng_marker.png?200|}}
 
-You will need to convert your latitude and longitude to XX.XXXX, The degrees then hours and minutes as a decimal.
+You will need to convert your latitude and longitude to a standard format of XX.XXXX. The degrees, then hours, and then minutes need to be a displayed as a decimal.
 
-Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). Therefor South and West become negative numbers. Refer to the image below for help.
+Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). North and East are positive and South and West become negative numbers. Refer to the image below for help.
 
 {{:google-mapper:coordinates_explination.png?800|}}
 
@@ -121,7 +121,7 @@ These columns will appear on the left side of the screen like this:
 
 {{:google-mapper:first_set_of_colums.png?200|}}
 
-//
+//d
 //
 
 ==== Variable Columns ====
@@ -138,22 +138,31 @@ You can refer to is master key on what each template needs you to enter in each 
 
 {{:google-mapper:template_master_key.png?800|}}
 
-Additional Columns Explained:
+**Additional Columns Explained:**
 
 **Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
 
-**Title:**
-**Subtitle:**
-**Paragraph 1 Text:**
-**Paragraph 2 Text:**
-**Image URL:**
-**Image Width:**
-**Image Height:**
-**Paragraph Text:**
-**Link URL:**
-**Link Text:**
-**Video Embed Code:**
-**Other Embed Code: This does not work in google maps.**
+**Title:** This will be what you want to name your point
+
+**Subtitle:** This is your subtitle.
+
+**Paragraph 1 Text:** This is where you can type block text about your point.
+
+**Paragraph 2 Text:** This only appears for Template 1 and 2 but you can put additional text here. 
+
+**Image URL:** This is only available for Template 3 and 4 and this is where you put a link to an Image that you want to be displayed. 
+
+**Image Width and Image Height:** This is where you can specify the desired size of your image in pixels ex.: 300 X 400.
+
+**Paragraph Text:** This is available for templates 2-4 to allow you to type block text for your images or links.
+
+**Link URL:** This allows you in every template to include a link to another site. 
+
+**Link Text:** The link Text will be how the Link URL is displayed within your pop up window to shorten it, just like how a hyperlink is used. 
+
+**Video Embed Code:** This will allow you to Embed a video into your popup window from the web, such as Youtube or Vimeo. Make sure you use a Embed code and not a link. A link will work as well, but it will not allow the video to play directly from your point in google maps.
+
+**Other Embed Code:** This does not work in google maps.
 
 
 
@@ -190,7 +199,6 @@ Start to fill out your Columns with information
 
 
 
-First thing to do is to follow the steps from above and delete rows
-Then Repair errors
-Then Exit the Google drive spreadsheet, drive, and close the browser
-Wait a few minutes 10-20 minutes. Sometimes there is a residual error built up in the google server. This is most likely due to a self defense mechanism in the code of the server to keep a user from crashing the server by using up too much computing power.
+First thing to do is to follow the steps from above In the "Detour" above, delete and repair rows. 
+Then sign out of Google drive and close the browser.
+Wait 10-20 minutes. Sometimes there is a residual error built up in the google server. This is most likely due to a self defense mechanism in the code of the server to keep a user from crashing the server by using up too much computing power.
