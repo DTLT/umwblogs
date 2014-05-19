@@ -154,12 +154,12 @@ You can refer to is master key on what each template needs you to enter in each 
 
 Here are photos of how the columns will be displayed in Google Maps.
 
-Template1:{{:google-mapper:template_1.png?200|}}   Template2:{{:google-mapper:template_2.png?200|}}
+Template1:{{:google-mapper:template_1.png?250|}}   Template2:{{:google-mapper:template_2.png?250|}}
 
-Template3:{{:google-mapper:template_3.png?200|}}   Template4:{{:google-mapper:template_4.png?200|}}
+Template3:{{:google-mapper:template_3.png?250|}}   Template4:{{:google-mapper:template_4.png?250|}}
 
 Template5:
-{{:google-mapper:template_5.png?200|}}
+{{:google-mapper:template_5.png?250|}}
 
 Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread for now.
 
