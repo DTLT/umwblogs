@@ -27,19 +27,19 @@ You should delete as many rows as possible, you can always re-add them later. It
 
 So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
 
-{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?200|}}
+{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?600|}}
 
 An an authorization screen will pop up, click "Ok".
 
-{{:google-mapper:authorization.png?200|}}
+{{:google-mapper:authorization.png?600|}}
 
 Another screen will pop up and click "Accept".
 
-{{:google-mapper:accept.png?200|}}
+{{:google-mapper:accept.png?600|}}
 
 Remove the desired amount of rows.
 
-{{:google-mapper:remove_500.png?200|}}
+{{:google-mapper:remove_500.png?600|}}
 
 This process will take a moment to delete the rows and then to process the table. 
 
