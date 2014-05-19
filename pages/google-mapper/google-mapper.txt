@@ -78,21 +78,21 @@ If you are still having problems please see the Errors section at the end of thi
 
 1) Right click on your place in google maps and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
 
-{{:google-mapper:latlng_marker_activated.png?200|}}
+{{:google-mapper:latlng_marker_activated.png?300|}}
 
 2) A the bottom of the left side white column there is a option called “Map Labs.” In here you can activate two tools that can help you: “LatLng Tooltip” and “LatLng Marker.”
 
-{{:google-mapper:map_labels.png?200|}} {{:google-mapper:enable_tools.png?200|}}
+{{:google-mapper:map_labels.png?300|}} {{:google-mapper:enable_tools.png?300|}}
 
 
 
 LatLng Tool Tip: Enable the tool in the “Map Labs” menu and hold shift to display the latitude and Longitude.
 
-{{:google-mapper:latlng_tooltip_activated.png?200|}}
+{{:google-mapper:latlng_tooltip_activated.png?300|}}
 
 LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps when you find your point, right click, and in the menu click “Drop LatLng marker.”
 
-{{:google-mapper:right_click_drop_lantlng_marker.png?200|}}
+{{:google-mapper:right_click_drop_lantlng_marker.png?300|}}
 
 You will need to convert your latitude and longitude to a standard format of XX.XXXX. The degrees, then hours, and then minutes need to be a displayed as a decimal.
 
