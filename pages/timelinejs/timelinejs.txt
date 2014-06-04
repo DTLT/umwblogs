@@ -4,8 +4,6 @@ TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and 
 
 To use TimelineJS, you must first have a Google account. If you do not already have one, please visit [[http://accounts.google.com|the Google sign-in]] page, and follow the link to create an account.
 
-Instructions for using TimelineJS follow, but you can also refer to the instructions on [[http://timeline.knightlab.com|the TimelineJS homepage]].  
-
 ===== Access the Google Spreadsheet =====
 
 1)  Go to [[http://timeline.knightlab.com/|the TimelineJS homepage]] and click on the "Make a timeline" button (or scroll down to the "Make a timeline" section).
