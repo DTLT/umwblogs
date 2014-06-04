@@ -1,13 +1,14 @@
 ====== How to Use Timeline JS ======
-\\
-\\
 
-===== First Steps =====
+TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and displays them visually on a timeline. This tool has been used to create timeline covering topics like the  [[http://taipingcivilwar.org/timeline|Taiping Civil War]], the [[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|Crisis in Egypt]], and the [[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|Life of Nelson Mandela]].
 
+To use TimelineJS, you must first have a Google account. If you do not already have one, please visit [[http://accounts.google.com|the Google sign-in]] page, and follow the link to create an account.
 
-Go to: [[http://timeline.knightlab.com/|http://timeline.knightlab.com/]]
+Instructions for using TimelineJS follow, but you can also refer to the instructions on [[http://timeline.knightlab.com|the TimelineJS homepage]].  
 
-You can also refer to the instructions on their webpage.
+===== Access the Google Spreadsheet =====
+
+1)  Go to [[http://timeline.knightlab.com/|the TimelineJS homepage]] and click on the "Make a timeline" button (or scroll down to the "Make a timeline" section).
 
 Download the "Google Spreadsheet Template" and save a copy of their spreadsheet.\\
 [[https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public|Link to spread sheet]]
@@ -117,6 +118,4 @@ You can navigate the timeline by:
 
 ===== Examples of Timelines in Use =====
 
-[[http://taipingcivilwar.org/timeline|The Taiping Civil War]]   \\
-[[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|The Crisis in Egypt]]   \\
-[[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|The Life of Nelson Mandela]]   \\
+ \\
