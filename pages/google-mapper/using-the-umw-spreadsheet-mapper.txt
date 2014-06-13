@@ -2,75 +2,17 @@
 
 #Using the Spreadsheet Mapper
 
+=====Getting the Mapper Template=====
 
-\\
-\\
+1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
-===== Getting started =====
+2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Mapper template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Mapper." You can also find [[google-mapper:google-mapper|a list of customized templates]] on this wiki.
 
-Go to the google spreadsheet mapper tutorial at:
-[[http://www.google.com/earth/outreach/tutorials/spreadsheet3.html]]
+3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account.
 
-Download template Spreadsheet
-Or Click here: [[https://docs.google.com/spreadsheet/ccc?pli=1&key=0AmRwQGTwte_UdHh0anlRVENUTXJ2NWFGOWd2SENYUGc&newcopy|Template]]
+=====Initial Setup=====
 
-
-Open the Template and save a copy.
-
-Open the sheet at the bottom labeled "PlacemarkData", Delete the sample information in the sheet.
-
-\\
-
-**A VERY IMPORTANT DETOUR**
-
-If you look through the sheet, “PlacemarkData,” you’ll notice that there is about 1,000 rows. Each row is running some computer code. All of these empty rows are using up a lot of computer power. Best case it will cause your spreadsheet to run very slowly. In the worst case scenario this will cause your entire spreadsheet to stop working.
-
-You should delete as many rows as possible, you can always re-add them later. It would be good to delete least 900 rows, most projects will not require more 100 data points. You can only delete 500 at a time, so you will have repeat this process.
-
-So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
-
-{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?600|}}
-
-An an authorization screen will pop up, click "Ok".
-
-{{:google-mapper:authorization.png?400|}}
-
-Another screen will pop up and click "Accept".
-
-{{:google-mapper:accept.png?400|}}
-
-Remove the desired amount of rows.
-
-{{:google-mapper:remove_500.png?400|}}
-
-This process will take a moment to delete the rows and then to process the table. 
-
-Sometimes Google Drive does not process the spreadsheet correctly so it is recommended to run the repair tool as well. 
-
-To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
-
-{{:google-mapper:spreadsheet_mapper_repair.png?600|}}
-
-
-A confirmation box will pop up, click "OK"
-
-{{:google-mapper:repair_confirm.png?300|}}
-
-Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
-
-{{:google-mapper:repair_completed.png?300|}}
-
-
-If you are still having problems please see the Errors section at the end of this blog. A very common error called, “Script Invoked too many times per second...” will be covered there more extensively. We will also be creating a new template to try to deal with this error and eliminate the need to do these steps. 
-
-\\
-\\
-
-
-===== Columns Explained =====
-
-==== Static Columns ====
-
+=====Entering Data=====
 
 **Folder Name:** is to help organize your points once they are mapped in a collapsible folder, is an optional addition to the program.
 
@@ -107,12 +49,6 @@ Also you will need to manually convert the decimal to the appropriate quadrant s
 These columns will appear on the left side of the screen like this:
 
 {{:google-mapper:first_set_of_colums.png?200|}}
-
-//
-//
-
-==== Variable Columns ====
-
 
 These Columns, as pictured below change what inputs need and to be entered into the respective cells depending on what type of template is entered into the far left column.
 
@@ -151,22 +87,42 @@ You can refer to is master key on what each template needs you to enter in each 
 
 **Other Embed Code:** This does not work in google maps.
 
+=====Adding or Removing Rows=====
+
+So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
+
+{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?600|}}
+
+An an authorization screen will pop up, click "Ok".
+
+{{:google-mapper:authorization.png?400|}}
+
+Another screen will pop up and click "Accept".
+
+{{:google-mapper:accept.png?400|}}
+
+Remove the desired amount of rows.
+
+{{:google-mapper:remove_500.png?400|}}
+
+This process will take a moment to delete the rows and then to process the table. 
+
+Sometimes Google Drive does not process the spreadsheet correctly so it is recommended to run the repair tool as well. 
+
+To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
+
+{{:google-mapper:spreadsheet_mapper_repair.png?600|}}
 
 
+A confirmation box will pop up, click "OK"
 
-Here are photos of how the columns will be displayed in Google Maps.
+{{:google-mapper:repair_confirm.png?300|}}
 
-Template1:{{:google-mapper:template_1.png?250|}}   Template2:{{:google-mapper:template_2.png?250|}}
+Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
 
-Template3:{{:google-mapper:template_3.png?250|}}   Template4:{{:google-mapper:template_4.png?250|}}
+{{:google-mapper:repair_completed.png?300|}}
 
-Template5:
-{{:google-mapper:template_5.png?250|}}
-
-Template6: This template does not work in google maps, but does work in Google Earth. This will not be covered in this support thread for now.
-
-
-===== Publishing to web =====
+=====Publishing Changes to the Web=====
 
 One of the important first steps is to set up the publishing options.
 
@@ -178,9 +134,6 @@ Click "File" at the top and then click, "Publish to Web."
 Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
 
 **Important Note:** __You will need to manually republish after you make updates.__
-
-\\
-\\
 
 ===== Embedding in WordPress =====
 
