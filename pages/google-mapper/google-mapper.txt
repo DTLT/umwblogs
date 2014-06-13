@@ -4,5 +4,5 @@
   * [[Using the UMW Spreadsheet Mapper]]
   * [[Sample Map]]
 
-====Customized Course Mappers====
+====Customized Course Spreadsheet Mappers====
 
