@@ -2,7 +2,7 @@
 
 ====Documentation====
   * [[Using the UMW Spreadsheet Mapper]]
+  * [[https://drive.google.com/previewtemplate?id=0ArGF135eKnjDdGEweUU4a2Uwell2TzB1OW5OM2RNU2c&mode=public|Get the generic UMW Spreadsheet Mapper]]
   * [[Sample Map]]
 
 ====Customized Course Templates====
-
