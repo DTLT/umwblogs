@@ -1,8 +1,8 @@
 # UMW Spreadsheet Mapper
 
 ====Documentation====
-  * Instructions
-  * Sample Mapper Display
+  * Using the UMW Spreadsheet Mapper
+  * Sample Map
 
 ====Customized Course Mappers====
 
