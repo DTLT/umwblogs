@@ -36,7 +36,7 @@ All placemarks have the same static columns, regardless of which template will b
 
   * **Folder Name:** (optional) helps organize placemarks into a collapsible folder.
   * **Placemark Name:** the name of the place you are mapping.
-  * **Latitude and Longitude:** the geolocation of the place you are mapping. You can find the coordinates for many places, especially those that are popular and/or of historical importance, through a simple Google search (e.g. "UMW coordinates"). If that does not work, you can also navigate to your place in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top. 
+  * **Latitude and Longitude:** the geolocation of the place you are mapping. You can find the coordinates for many places, especially those that are popular and/or of historical importance, through a simple Google search (e.g. "UMW coordinates"). If that does not work, you can also navigate to your place in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
   * **Address:** Do not use this column.
 
 NOTE: We highly recommend finding and entering the latitude and longitude for each placemark, instead of entering a street address. Using street addresses will make your map much slower to load, as the scripts will have to convert each of those addresses into geocoordinates (lat/long) every time a visitor views the map. Keep in mind that lat/long coordinates must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
@@ -47,7 +47,7 @@ The variable columns for each placemark are defined by the display template bein
 
 The display templates in the UMW Spreadsheet Mapper use the following columns:
 
-==Text Display Template==
+**Text Display Template**
 
   * **Template:** the template the spreadsheet will use to create the display balloon for this item.
   * **Title:** the name of the place you are mapping.
@@ -57,7 +57,7 @@ The display templates in the UMW Spreadsheet Mapper use the following columns:
   * **Link URL:** a link to additional information about the place you are mapping.
   * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
-==Image Display Template==
+**Image Display Template**
 
   * **Template:** the template the spreadsheet will use to create the display balloon for this item.
   * **Title:** the name of the place you are mapping.
@@ -69,7 +69,7 @@ The display templates in the UMW Spreadsheet Mapper use the following columns:
   * **Link URL:** a link to additional information about the place you are mapping.
   * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
-==Video Display Template==
+**Video Display Template**
 
   * **Template:** the template the spreadsheet will use to create the display balloon for this item.
   * **Title:** the name of the place you are mapping.
