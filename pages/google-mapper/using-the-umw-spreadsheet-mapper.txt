@@ -8,9 +8,19 @@
 
 2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Mapper template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Mapper." You can also find [[google-mapper:google-mapper|a list of customized templates]] on this wiki.
 
-3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account.
+3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
 
 =====Initial Setup=====
+
+1)  The template will automatically open to the MapMetaData tab. Change the information in the "Basic Information" section to describe the project you are working on.
+
+2)  To make the data from this map accessible via the web, you will need to publish it. From the top menu, click File -> Publish to Web.
+
+{{:google-mapper:file_publish_to_web.png?300|}}
+
+3)  Another window will pop up. Uncheck the Automatically republish when changes are made box, and click Start Publishing now. 
+
+4)  Remember, you will need to manually republish this spreadsheet after you make updates. You can do that by returning to this screen, and clicking the Republish now button.
 
 =====Entering Data=====
 
@@ -122,18 +132,6 @@ Once google drive has repaired the Rows and formulas another box will pop up to 
 
 {{:google-mapper:repair_completed.png?300|}}
 
-=====Publishing Changes to the Web=====
-
-One of the important first steps is to set up the publishing options.
-
-Click "File" at the top and then click, "Publish to Web."
-
-{{:google-mapper:file_publish_to_web.png?300|}}
-
-
-Another window will pop up, Uncheck “Automatically republish when changes are made.” Then click Start Publishing now. Then the "Republish Now" button will become available. 
-
-**Important Note:** __You will need to manually republish after you make updates.__
 
 ===== Embedding in WordPress =====
 
