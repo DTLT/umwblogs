@@ -2,7 +2,7 @@
 
 #Using the Spreadsheet Mapper
 
-=====Getting the Mapper Template=====
+====Getting the Mapper Template====
 
 1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
@@ -10,7 +10,7 @@
 
 3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
 
-=====Initial Setup=====
+====Initial Setup====
 
 1)  The template will automatically open to the MapMetaData tab. Change the information in the "Basic Information" section to describe the project you are working on.
 
@@ -22,13 +22,21 @@
 
 4)  Remember, you will need to manually republish this spreadsheet after you make updates. You can do that by returning to this screen, and clicking the Republish now button.
 
-=====Entering Data=====
+====Entering Data====
 
-**Folder Name:** is to help organize your points once they are mapped in a collapsible folder, is an optional addition to the program.
+1)  To begin entering data, click the tab along the bottom of the screen called PlacemarkData.
 
-**Placemark Name:** is the Unique name of the place, it will appear on the left column.
+2)  This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). The data is broken down into two sections: static columns, and variable columns.
 
-**Latitude and Longitude:** This is the preferred method of using the Spreadsheet mapper. By using the latitude and Longitude it will make your map run faster, because if you use address then it will have to search for your address and then map it. The simplest way to get the latitude and longitude of a place is to just do a google search. Most important and popular places already have the Latitude and Longitude readily available. If it is not readily available you can access it a few different ways.
+NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT delete rows from the spreadsheet, as this will cause errors.
+
+===Static Columns===
+
+  * **Folder Name:** (optional) helps organize placemarks into a collapsible folder.
+  * **Placemark Name:** the name of the place you are mapping.
+  * **Latitude and Longitude:** the geolocation of the place you are mapping. You can find the coordinates for many places, especially those that are popular and/or of historical importance, through a simple Google search (e.g. "UMW coordinates").
+
+NOTE: We highly recommend finding and entering the latitude and longitude for each placemark, instead of entering a street address. Using street addresses will make your map much slower to load, as the program will have to convert each of those addresses into geocoordinates (lat/long) every time the map is loaded. 
 
 1) Right click on your place in google maps and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
 
