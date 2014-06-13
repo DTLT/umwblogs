@@ -1,4 +1,4 @@
-====== How to use Google Spreadsheet Mapper ======
+#Using UMW Spreadsheet Mapper
 
 
 \\
