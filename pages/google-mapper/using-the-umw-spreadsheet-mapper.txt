@@ -32,37 +32,54 @@ NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT
 
 ===Static Columns===
 
+All placemarks have the same static columns, regardless of which template will be used to display the placemark. These columns are:
+
   * **Folder Name:** (optional) helps organize placemarks into a collapsible folder.
   * **Placemark Name:** the name of the place you are mapping.
-  * **Latitude and Longitude:** the geolocation of the place you are mapping. You can find the coordinates for many places, especially those that are popular and/or of historical importance, through a simple Google search (e.g. "UMW coordinates").
+  * **Latitude and Longitude:** the geolocation of the place you are mapping. You can find the coordinates for many places, especially those that are popular and/or of historical importance, through a simple Google search (e.g. "UMW coordinates"). If that does not work, you can also navigate to your place in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top. 
+  * **Address:** Do not use this column.
 
-NOTE: We highly recommend finding and entering the latitude and longitude for each placemark, instead of entering a street address. Using street addresses will make your map much slower to load, as the program will have to convert each of those addresses into geocoordinates (lat/long) every time the map is loaded. 
+NOTE: We highly recommend finding and entering the latitude and longitude for each placemark, instead of entering a street address. Using street addresses will make your map much slower to load, as the scripts will have to convert each of those addresses into geocoordinates (lat/long) every time a visitor views the map. Keep in mind that lat/long coordinates must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
 
-1) Right click on your place in google maps and then click “What's here?” in the pop up menu. Then it will display the Latitude and Longitude in the search bar at the top.
+===Variable Columns===
 
-{{:google-mapper:latlng_marker_activated.png?300|}}
+The variable columns for each placemark are defined by the display template being used for each placemark. For a quick summary of columns used in a particular template, check the master key near the top of the PlacemarkData worksheet.
 
-2) A the bottom of the left side white column there is a option called “Map Labs.” In here you can activate two tools that can help you find the latitude and longitude: “LatLng Tooltip” and “LatLng Marker.”
+The display templates in the UMW Spreadsheet Mapper use the following columns:
 
-{{:google-mapper:map_labels.png?300|}} {{:google-mapper:enable_tools.png?300|}}
+==Text Display Template==
 
+  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
+  * **Title:** the name of the place you are mapping.
+  * **Subtitle:** a subtitle for the place you are mapping.
+  * **First Paragraph:** the first part of the text describing the place you are mapping.
+  * **Second Paragraph:** the second part of the text describing the place you are mapping.
+  * **Link URL:** a link to additional information about the place you are mapping.
+  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
+==Image Display Template==
 
-LatLng Tool Tip: Enable the tool in the “Map Labs” menu and hold shift to display the latitude and Longitude.
+  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
+  * **Title:** the name of the place you are mapping.
+  * **Subtitle:** a subtitle for the place you are mapping.
+  * **Image URL:** the direct link to the image to be displayed in the balloon for this item. This link should end in .jpg, .png, or another image extension. All images should be 200 pixels in height or smaller.
+  * **Image Producer:** the name of the person or organization who created the image you are using.
+  * **Image Producer URL:** a link with more information about the person who created the image you are using (or, alternatively, a link to the news article or other online resource where you found the image).
+  * **Description:** text describing the place you are mapping.
+  * **Link URL:** a link to additional information about the place you are mapping.
+  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
-{{:google-mapper:latlng_tooltip_activated.png?300|}}
+==Video Display Template==
 
-LatLng Marker: Enable the tool in the “Map Labs” menu, the in google maps when you find your point, right click, and in the menu click “Drop LatLng marker.”
-
-{{:google-mapper:right_click_drop_lantlng_marker.png?300|}}
-
-You will need to convert your latitude and longitude to a standard format of XX.XXXX. The degrees, then hours, and then minutes need to be a displayed as a decimal.
-
-Also you will need to manually convert the decimal to the appropriate quadrant since the spreadsheet cannot not see and convert the cardinal directions (N,S,E,W). North and East are positive and South and West become negative numbers. Refer to the image below for help.
-
-{{:google-mapper:coordinates_explination.png?800|}}
-
-**Address:** Do not use this column, the functionality is poor and it will adversely affect your map.
+  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
+  * **Title:** the name of the place you are mapping.
+  * **Subtitle:** a subtitle for the place you are mapping.
+  * **Video Embed Code:**
+  * **Video Producer:** the name of the person or organization who created the video you are using.
+  * **Video Producer URL:** a link with more information about the person who created the video you are using (or, alternatively, a link to the news article or other online resource where you found the video).
+  * **Description:** text describing the place you are mapping.
+  * **Link URL:** a link to additional information about the place you are mapping.
+  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
 These columns will appear on the left side of the screen like this:
 
@@ -79,31 +96,7 @@ You can refer to is master key on what each template needs you to enter in each 
 
 {{:google-mapper:template_master_key.png?800|}}
 
-**Additional Columns Explained:**
 
-**Template:** The template is what controls your inputs look like in the pop up window when you click on your pin in google maps
-
-**Title:** This will be what you want to name your point
-
-**Subtitle:** This is your subtitle.
-
-**Paragraph 1 Text:** This is where you can type block text about your point.
-
-**Paragraph 2 Text:** This only appears for Template 1 and 2 but you can put additional text here. 
-
-**Image URL:** This is only available for Template 3 and 4 and this is where you put a link to an Image that you want to be displayed. 
-
-**Image Width and Image Height:** This is where you can specify the desired size of your image in pixels ex.: 300 X 400.
-
-**Paragraph Text:** This is available for templates 2-4 to allow you to type block text for your images or links.
-
-**Link URL:** This allows you in every template to include a link to another site. 
-
-**Link Text:** The link Text will be how the Link URL is displayed within your pop up window to shorten it, just like how a hyperlink is used. 
-
-**Video Embed Code:** This will allow you to Embed a video into your popup window from the web, such as Youtube or Vimeo. Make sure you use a Embed code and not a link. A link will work as well, but it will not allow the video to play directly from your point in google maps.
-
-**Other Embed Code:** This does not work in google maps.
 
 =====Adding or Removing Rows=====
 
