@@ -1,7 +1,11 @@
 #Activating Plugins
 
-  - Log into your account
-  - Select the plugins menu from the left side bar
-  - Click activate under the individual plugins
+- Log into your account
+- Select the plugins menu from the left side bar
+
+{{:appearance-and-plugins:plugin_s_on_left_menu.png?200|}}
+
+- Click activate under the individual plugins
+{{:appearance-and-plugins:plugin_s_menu.png?200|}}
 
 Note: Some plugins may require additional activation steps.
