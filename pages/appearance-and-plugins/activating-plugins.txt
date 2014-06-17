@@ -1,1 +1,7 @@
 #Activating Plugins
+
+  - Log into your account
+  - Select the plugins menu from the left side bar
+  - Click activate under the individual plugins
+
+Note: Some plugins may require additional activation steps.
