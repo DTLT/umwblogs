@@ -2,6 +2,8 @@
 
 #General Administration
 
+The first step for any of these guides is to log into your website's Wordpress account. It will be: www.yourwebsitetitle.com/admin. Once you have logged in continue to these support threads.
+
   * [[Changing Your Blog Title]]
   * [[Managing Comments]]
   * [[Setting Privacy Options]]
