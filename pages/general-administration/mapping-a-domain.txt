@@ -6,3 +6,4 @@ To map a domain, click on "Tools" on the left sidebar, then when the sub menu op
 
 {{:general-administration:tools_side_bar.png?150|}}
 
+On the new page that opens up you can add subdomains. After you create subdomains you can see all of them.
