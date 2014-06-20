@@ -1,3 +1,11 @@
 {{indexmenu_n>4}}
 
 #Creating and Editing Menus
+
+To Edit your Menus click, "Appearance," on the left side bar. Then click, "Menus," on the submenu. 
+
+{{:appearance-and-plugins:menus_sidebar.png?150|}}
+
+From there you will be able to edit your Menus and their structures. 
+
+{{:appearance-and-plugins:menus_options.png?500|}}
