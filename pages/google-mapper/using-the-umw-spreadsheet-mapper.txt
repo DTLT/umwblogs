@@ -24,7 +24,7 @@
 
 ====Entering Data====
 
-To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). The data is broken down into two sections: static columns, and variable columns.
+To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). Several sample placemarks have been included in the template to more accurately The data is broken down into two sections: static columns, and variable columns.
 
 NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT delete rows from the spreadsheet, as this will cause errors.
 
@@ -41,43 +41,15 @@ NOTE: We highly recommend finding and entering the latitude and longitude for ea
 
 ===Variable Columns===
 
-The variable columns for each placemark are defined by the display template being used for each placemark. For a quick summary of columns used in a particular template, check the master key near the top of the PlacemarkData worksheet.
+The variable columns for each placemark are defined by the display template being used for each placemark. For a quick summary of columns used in a particular template, check the master key near the top of the PlacemarkData worksheet. To make data entry easier, type the name of the desired template into cell I9 of the spreadsheet. This will change the yellow column headers, so you can easily see which data should go into which cell for a particular placemark. To identify which template should be used to display a placemark, type the name of the template into the row where it intersects with column H.
 
-The display templates in the UMW Spreadsheet Mapper use the following columns:
+[{{ :google-mapper:template-fields.png?nolink&450 |}}]
 
-**Text Display Template**
+Here are a few best practices to keep in mind when using these templates:
+  * For templates that allow you to display a link, put the text you want to be clickable in the Link Text cell, and the destination visitors should go when they click in the Link URL cell.
+  * Image URLs need to be a direct link to an image, ending in .jpg, .png, or another image extension. If the image you want to use is on your computer, you can upload it to an image hosting service like [[Imgur|http://imgur.com]], Photobucket, or Flickr. All images should be less than 200 pixels in height.
 
-  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
-  * **Title:** the name of the place you are mapping.
-  * **Subtitle:** a subtitle for the place you are mapping.
-  * **First Paragraph:** the first part of the text describing the place you are mapping.
-  * **Second Paragraph:** the second part of the text describing the place you are mapping.
-  * **Link URL:** a link to additional information about the place you are mapping.
-  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
-**Image Display Template**
-
-  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
-  * **Title:** the name of the place you are mapping.
-  * **Subtitle:** a subtitle for the place you are mapping.
-  * **Image URL:** the direct link to the image to be displayed in the balloon for this item. This link should end in .jpg, .png, or another image extension. All images should be 200 pixels in height or smaller.
-  * **Image Producer:** the name of the person or organization who created the image you are using.
-  * **Image Producer URL:** a link with more information about the person who created the image you are using (or, alternatively, a link to the news article or other online resource where you found the image).
-  * **Description:** text describing the place you are mapping.
-  * **Link URL:** a link to additional information about the place you are mapping.
-  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
-
-**Video Display Template**
-
-  * **Template:** the template the spreadsheet will use to create the display balloon for this item.
-  * **Title:** the name of the place you are mapping.
-  * **Subtitle:** a subtitle for the place you are mapping.
-  * **Video Embed Code:**
-  * **Video Producer:** the name of the person or organization who created the video you are using.
-  * **Video Producer URL:** a link with more information about the person who created the video you are using (or, alternatively, a link to the news article or other online resource where you found the video).
-  * **Description:** text describing the place you are mapping.
-  * **Link URL:** a link to additional information about the place you are mapping.
-  * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
 
 =====Adding or Removing Rows=====
 
