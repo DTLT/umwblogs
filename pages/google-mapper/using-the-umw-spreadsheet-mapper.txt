@@ -24,9 +24,7 @@
 
 ====Entering Data====
 
-1)  To begin entering data, click the tab along the bottom of the screen called PlacemarkData.
-
-2)  This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). The data is broken down into two sections: static columns, and variable columns.
+To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). The data is broken down into two sections: static columns, and variable columns.
 
 NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT delete rows from the spreadsheet, as this will cause errors.
 
@@ -80,23 +78,6 @@ The display templates in the UMW Spreadsheet Mapper use the following columns:
   * **Description:** text describing the place you are mapping.
   * **Link URL:** a link to additional information about the place you are mapping.
   * **Link Text:** the text visitors will click to view additional information about the place you are mapping.
-
-These columns will appear on the left side of the screen like this:
-
-{{:google-mapper:first_set_of_colums.png?200|}}
-
-These Columns, as pictured below change what inputs need and to be entered into the respective cells depending on what type of template is entered into the far left column.
-
-{{:google-mapper:variable_columns.png?800|}}
-
-
-When you type in a new template (Template1, Template2, etc.) into the second column it changes the heading to help you enter data based on what type of point you would like to use.
-
-You can refer to is master key on what each template needs you to enter in each column.
-
-{{:google-mapper:template_master_key.png?800|}}
-
-
 
 =====Adding or Removing Rows=====
 
