@@ -16,7 +16,7 @@
 
 2)  To make the data from this map accessible via the web, you will need to publish it. From the top menu, click File -> Publish to Web.
 
-{{:google-mapper:file_publish_to_web.png?300|}}
+[{{ :google-mapper:file_publish_to_web.png?450 |}}]
 
 3)  Another window will pop up. Uncheck the Automatically republish when changes are made box, and click Start Publishing now. 
 
