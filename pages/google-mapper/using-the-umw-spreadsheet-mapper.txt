@@ -45,7 +45,7 @@ To make data entry easier, type the name of the desired template into cell I9 of
 
 To identify which template should be used to display a placemark, type the name of the template into the row where it intersects with column H.
 
-[{{ :google-mapper:template-fields.png?direct&600 | //click the image for a larger view// }}]
+[{{ :google-mapper:template-fields.png?nolink&600 | }}]
 
 ===Best Practices===
   * Link Text refers to the text visitors will click to visit the link, while Link URL refers to the destination they'll be taken upon clicking.
