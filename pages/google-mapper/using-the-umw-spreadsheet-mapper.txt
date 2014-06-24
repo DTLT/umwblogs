@@ -34,7 +34,7 @@ All placemarks have the same static columns, regardless of which template will b
 
   * **Folder Name:** (optional) helps organize placemarks into a collapsible folder.
   * **Placemark Name:** the name of the location you are mapping.
-  * **Latitude and Longitude:** the geocoordinates of the location you are mapping. 
+  * **Latitude and Longitude:** the geocoordinates of the location you are mapping.
   * **Address:** the street address of the location you are mapping.
 
 ===Variable Columns===
@@ -45,7 +45,7 @@ To make data entry easier, type the name of the desired template into cell I9 of
 
 To identify which template should be used to display a placemark, type the name of the template into the row where it intersects with column H.
 
-[{{ :google-mapper:template-fields.png?nolink&600 |}}]
+[{{ :google-mapper:template-fields.png?direct&600 | //click the image for a larger view// }}]
 
 ===Best Practices===
   * Link Text refers to the text visitors will click to visit the link, while Link URL refers to the destination they'll be taken upon clicking.
@@ -56,7 +56,6 @@ To identify which template should be used to display a placemark, type the name 
   * Latitude and longitude must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
 
 [{{ :google-mapper:lat-long.png?nolink |}}]
-
 
 =====Adding or Removing Rows=====
 
