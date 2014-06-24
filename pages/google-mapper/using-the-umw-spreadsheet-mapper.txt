@@ -65,6 +65,20 @@ If you need to add or remove rows from the spreadsheet, you must use the tools a
 
 ====Adding Rows====
 
+The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are used for sample content, which can be removed whenever you are ready to add your own placemarks. If you need to map more than 20 placemarks, you can add rows by doing the following:
+
+1)  Click the Spreadsheet Mapper menu at the top, then click Add more rows.
+
+[{{ :google-mapper:add-rows.png?500 |}}]
+
+2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
+
+[{{ :google-mapper:authorization.png?400 |}}]
+
+[{{ :google-mapper:accept.png?400 |}}]
+
+3)  Enter the number of rows you would like to add. Having a large number of empty rows can make your map slow to load, so only enter the number you actually need. (You can always add more rows later.) This process will take a moment to add the rows and then to process the table.
+
 ====Removing Rows====
 
 Removing rows normally is not necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to use this process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads.
