@@ -73,7 +73,7 @@ If you need to add or remove rows from the spreadsheet, you must use the tools a
 
 2)  An authorization screen will pop up. Click Ok.
 
-[{{ :google-mapper:authorization.png?400| }}]
+[{{ :google-mapper:authorization.png?400 |}}]
 
 3)  Another screen will pop up. Click Accept.
 
