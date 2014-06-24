@@ -48,14 +48,21 @@ To identify which template should be used to display a placemark, type the name 
 [{{ :google-mapper:template-fields.png?600 | }}]
 
 ===Best Practices===
+
   * Link Text refers to the text visitors will click to visit the link, while Link URL refers to the destination they'll be taken upon clicking.
+  
   * Image URLs need to be a direct link to an image, ending in .jpg, .png, or another image extension. If the image you want to use is on your computer, you can upload it to an image hosting service like [[http://imgur.com|Imgur]], [[http://photobucket.com|Photobucket]], or [[http://flickr.com|Flickr]]. 
+  
   * All images should be less than 200 pixels in height.
+  
   * Use geocoordinates (latitude and longitude) instead of street addresses when possible. Using street addresses will make your map much slower to load.
+  
   * Geocoordinates can often be found through a simple Google search (e.g. "UMW coordinates"). You can also navigate to the location you're mapping in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. The Latitude and Longitude will be displayed in the search bar at the top.
+  
   * Latitude and longitude must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
 
 [{{ :google-mapper:lat-long.png |}}]
+
 
 =====Adding or Removing Rows=====
 
