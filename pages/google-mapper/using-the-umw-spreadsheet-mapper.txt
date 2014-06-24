@@ -67,19 +67,21 @@ If you need to add or remove rows from the spreadsheet, you must use the tools a
 
 ====Removing Rows====
 
+Removing rows normally is not necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to use this process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads.
+
+To remove rows:
+
 1)  Click the Spreadsheet Mapper menu at the top, then click Remove some rows.
 
-[{{ :google-mapper:spreadsheet_mapper_-_remove_some_rows.png?400 |}}]
+[{{ :google-mapper:remove-rows.png?500 |}}]
 
-2)  An authorization screen will pop up. Click Ok.
+2)  If you have not added or removed rows before, two authorization windows will pop up. Click OK, then click Accept.
 
 [{{ :google-mapper:authorization.png?400 |}}]
 
-3)  Another screen will pop up. Click Accept.
-
 [{{ :google-mapper:accept.png?400 |}}]
 
-4)  Remove the desired amount of rows. This process will take a moment to delete the rows and then to process the table.
+3)  Enter the number of rows you would like to remove. This process will take a moment to delete the rows and then to process the table.
 
 [{{ :google-mapper:remove_500.png?400 |}}]
 
