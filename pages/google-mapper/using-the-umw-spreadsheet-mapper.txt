@@ -55,6 +55,8 @@ To identify which template should be used to display a placemark, type the name 
   * Geocoordinates can often be found through a simple Google search (e.g. "UMW coordinates"). You can also navigate to the location you're mapping in Google Maps, right click on the spot you want to retrieve geocoordinates for, and then click “What's here?” in the pop up menu. The Latitude and Longitude will be displayed in the search bar at the top.
   * Latitude and longitude must be entered into this spreadsheet as decimals, using positive and negative numbers to denote direction. North latitudes and east longitudes are positive numbers; south latitudes and west longitudes are negative numbers.
 
+[{{ :google-mapper:lat-long.png?nolink |}}]
+
 
 =====Adding or Removing Rows=====
 
