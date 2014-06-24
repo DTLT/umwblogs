@@ -79,6 +79,8 @@ The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are 
 
 3)  Enter the number of rows you would like to add. Having a large number of empty rows can make your map slow to load, so only enter the number you actually need. (You can always add more rows later.) This process will take a moment to add the rows and then to process the table.
 
+{{ :google-mapper:add-number-of-rows.png?400 |}}
+
 ====Removing Rows====
 
 Removing rows normally is not necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to use this process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads.
