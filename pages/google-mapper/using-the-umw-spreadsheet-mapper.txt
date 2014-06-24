@@ -2,8 +2,6 @@
 
 #Using the Spreadsheet Mapper
 
-====Getting the Mapper Template====
-
 1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
 2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Mapper template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Mapper." You can also find [[google-mapper:google-mapper|a list of customized templates]] on this wiki.
@@ -59,11 +57,11 @@ To identify which template should be used to display a placemark, type the name 
 [{{ :google-mapper:lat-long.png |}}]
 
 
-=====Adding or Removing Rows=====
+====Adding or Removing Rows====
 
 If you need to add or remove rows from the spreadsheet, you must use the tools available under the Spreadsheet Mapper menu to do so. Adding or removing rows using any other method will cause errors.
 
-====Adding Rows====
+===Adding Rows===
 
 The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are used for sample content, which can be removed whenever you are ready to add your own placemarks. If you need to map more than 20 placemarks, you can add rows by doing the following:
 
@@ -81,7 +79,7 @@ The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are 
 
 {{ :google-mapper:add-number-of-rows.png?400 |}}
 
-====Removing Rows====
+===Removing Rows===
 
 Removing rows normally is not necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to use this process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads.
 
@@ -118,7 +116,7 @@ If you accidentally add or remove rows without using the Spreadsheet Mapper tool
 [{{ :google-mapper:repair_completed.png?200 |}}]
 
 
-===== Embedding in WordPress =====
+====Embedding in WordPress====
 
 Open your spreadsheet map in google maps and click the "chain" icon at the top left.
 
@@ -138,19 +136,11 @@ Open your Wordpress dashboard and make a new post. Change your post type from "V
 
 
 
-===== Tips: =====
+==== Tips: ====
 
 Be Patient because it will take Google drive and the codes in the spreadsheets a few moments to process your changes.
 
 Do not forget to republish your edits after you make them! Refer to Publishing to the web section
-
-
-===== Errors: =====
-
-
-==== Script Error: ====
-
-
 
 First thing to do is to follow the steps from above In the "Detour" above, delete and repair rows. 
 Then sign out of Google drive and close the browser.
