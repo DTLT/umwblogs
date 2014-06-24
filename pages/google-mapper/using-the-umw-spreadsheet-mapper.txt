@@ -61,38 +61,43 @@ To identify which template should be used to display a placemark, type the name 
 
 =====Adding or Removing Rows=====
 
-So Click “Spreadsheet Mapper” at the top, and then click, “Remove some rows.”
+If you need to add or remove rows from the spreadsheet, you must use the tools available under the Spreadsheet Mapper menu to do so. Adding or removing rows using any other method will cause errors.
 
-{{:google-mapper:spreadsheet_mapper_-_remove_some_rows.png?600|}}
+====Adding Rows====
 
-An an authorization screen will pop up, click "Ok".
+====Removing Rows====
 
-{{:google-mapper:authorization.png?400|}}
+1)  Click the Spreadsheet Mapper menu at the top, then click Remove some rows.
 
-Another screen will pop up and click "Accept".
+[{{ :google-mapper:spreadsheet_mapper_-_remove_some_rows.png?400 |}}]
 
-{{:google-mapper:accept.png?400|}}
+2)  An authorization screen will pop up. Click Ok.
 
-Remove the desired amount of rows.
+[{{ :google-mapper:authorization.png?400| }}]
 
-{{:google-mapper:remove_500.png?400|}}
+3)  Another screen will pop up. Click Accept.
 
-This process will take a moment to delete the rows and then to process the table. 
+[{{ :google-mapper:accept.png?400 |}}]
 
-Sometimes Google Drive does not process the spreadsheet correctly so it is recommended to run the repair tool as well. 
+4)  Remove the desired amount of rows. This process will take a moment to delete the rows and then to process the table.
 
-To run the repair tool, go back to Spreadsheet Mapper and Click "Repair Rows & Formulas."
+[{{ :google-mapper:remove_500.png?400 |}}]
 
-{{:google-mapper:spreadsheet_mapper_repair.png?600|}}
+====Repairing the Spreadsheet==== 
 
+If you accidentally add or remove rows without using the Spreadsheet Mapper tools, or encounter other errors on the PlacemarkData worksheet, you can run the repair tool to resolve the errors.
 
-A confirmation box will pop up, click "OK"
+1)  Go to the Spreadsheet Mapper menu and click Repair Rows & Formulas.
 
-{{:google-mapper:repair_confirm.png?300|}}
+[{{ :google-mapper:spreadsheet_mapper_repair.png?400 |}}]
 
-Once google drive has repaired the Rows and formulas another box will pop up to tell you that repair is completed. Click "OK" to close the box. 
+2)  A confirmation box will pop up. Click OK.
 
-{{:google-mapper:repair_completed.png?300|}}
+[{{ :google-mapper:repair_confirm.png?400 |}}]
+
+3)  Once Google Drive has repaired the rows and formulas, another box will pop up to tell you that repair is completed. Click OK to close the box. 
+
+[{{ :google-mapper:repair_completed.png?400 |}}
 
 
 ===== Embedding in WordPress =====
