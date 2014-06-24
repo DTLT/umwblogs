@@ -95,7 +95,7 @@ To remove rows:
 
 [{{ :google-mapper:accept.png?400 |}}]
 
-3)  Enter the number of rows you would like to remove. This process will take a moment to delete the rows and then to process the table.
+3)  Enter the number of rows you would like to remove. The script will remove the number of rows you specify from the end of your spreadsheet, so double-check that you will not be deleting any placemarks you want to keep. This process will take a moment to delete the rows and then to process the table.
 
 [{{ :google-mapper:remove_500.png?400 |}}]
 
