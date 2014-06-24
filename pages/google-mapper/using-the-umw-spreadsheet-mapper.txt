@@ -89,15 +89,15 @@ If you accidentally add or remove rows without using the Spreadsheet Mapper tool
 
 1)  Go to the Spreadsheet Mapper menu and click Repair Rows & Formulas.
 
-[{{ :google-mapper:spreadsheet_mapper_repair.png?400 |}}]
+[{{ :google-mapper:spreadsheet-repair.png?600 |}}]
 
 2)  A confirmation box will pop up. Click OK.
 
-[{{ :google-mapper:repair_confirm.png?400 |}}]
+[{{ :google-mapper:repair_confirm.png?200 |}}]
 
 3)  Once Google Drive has repaired the rows and formulas, another box will pop up to tell you that repair is completed. Click OK to close the box. 
 
-[{{ :google-mapper:repair_completed.png?400 |}}
+[{{ :google-mapper:repair_completed.png?200 |}}]
 
 
 ===== Embedding in WordPress =====
