@@ -14,7 +14,7 @@
 
 2)  To make the data from this map accessible via the web, you will need to publish it. From the top menu, click File -> Publish to Web.
 
-[{{ :google-mapper:umw-spreadsheet-mapper.png?450 |}}]
+[{{ :google-mapper:umw-spreadsheet-mapper.png?300 |}}]
 
 3)  Another window will pop up. Uncheck the Automatically republish when changes are made box, and click Start Publishing now. 
 
