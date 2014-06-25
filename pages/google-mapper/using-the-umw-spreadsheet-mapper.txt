@@ -56,6 +56,15 @@ To identify which template should be used to display a placemark, type the name 
 
 [{{ :google-mapper:lat-long.png |}}]
 
+====Reordering Rows====
+
+If you are using the optional Folder Name column to organize your placemarks, you will occasionally need to reorder your rows to ensure the folders stay organized properly. You may also want to reorder rows in order to make sure empty rows are at the bottom of the spreadsheet. To reorder rows:
+
+1)  Click once in a white cell within the column you want to use to reorder the rows. If you are reordering the rows to reorganize based on the Folder Name, for example, you'll need to click in one of the white cells in Column C. If you are reordering to move empty rows to the bottom, you might want to use the "Title" column (usually Column I).
+
+2)  From the Data menu, select one of the Sort options for the column you chose. Most people will probably want to sort from A ----> Z. After a moment, your rows will be reordered.
+
+[{{ :google-mapper:sort-by-folder-name.png?400 |}}]
 
 ====Adding or Removing Rows====
 
@@ -77,11 +86,11 @@ The UMW Spreadsheet Mapper comes with twenty available rows; a few of those are 
 
 3)  Enter the number of rows you would like to add. Having a large number of empty rows can make your map slow to load, so only enter the number you actually need. (You can always add more rows later.) This process will take a moment to add the rows and then to process the table.
 
-{{ :google-mapper:add-number-of-rows.png?400 |}}
+[{{ :google-mapper:add-number-of-rows.png?300 |}}]
 
 ===Removing Rows===
 
-Removing rows normally is not necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to use this process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads.
+Removing rows is not usually necessary; if you would like to remove a particular placemark from your map, simply delete the content from the cells of that row. The only time you should need to remove a row process is if you have a large number of empty rows at the bottom of your spreadsheet, in which case removing most of them may help improve how quickly your map loads. Keep in mind that the script will remove the number of rows you specify from the end of your spreadsheet, so double-check that you will not be deleting any placemarks you want to keep.
 
 To remove rows:
 
@@ -95,7 +104,7 @@ To remove rows:
 
 [{{ :google-mapper:accept.png?400 |}}]
 
-3)  Enter the number of rows you would like to remove. The script will remove the number of rows you specify from the end of your spreadsheet, so double-check that you will not be deleting any placemarks you want to keep. This process will take a moment to delete the rows and then to process the table.
+3)  Enter the number of rows you would like to remove. This process will take a moment to delete the rows and then to process the table.
 
 [{{ :google-mapper:remove_500.png?400 |}}]
 
