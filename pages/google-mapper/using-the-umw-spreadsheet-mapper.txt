@@ -137,7 +137,7 @@ To embed your map into WordPress:
 
 2)  In the pop up window copy the embed code.
 
-[{{ :google-mapper:embed_step_two.png?500 |}}
+[{{ :google-mapper:embed_step_two.png?500 |}}]
 
 3)  Open your WordPress dashboard and make a new post. 
 
@@ -146,12 +146,9 @@ To embed your map into WordPress:
 5)  Paste the embed code into the WordPress editor. You can also edit how large your map appears in your post by adjusting the Width and Height at the beginning of the embed code. 
 
 [{{ :google-mapper:adding_to_wordpress.png?500 |}}]
-==== Tips: ====
 
-Be Patient because it will take Google drive and the codes in the spreadsheets a few moments to process your changes.
+====Tips and Tricks====
 
-Do not forget to republish your edits after you make them! Refer to Publishing to the web section
+1)  Be patient when you make changes; it will take a few moments for the spreadsheet to process your changes.
 
-First thing to do is to follow the steps from above In the "Detour" above, delete and repair rows. 
-Then sign out of Google drive and close the browser.
-Wait 10-20 minutes. Sometimes there is a residual error built up in the google server. This is most likely due to a self defense mechanism in the code of the server to keep a user from crashing the server by using up too much computing power.
+2)  Do not forget to republish your spreadsheet after you make changes! Refer to the publishing instructions at the top of the page.
