@@ -127,24 +127,25 @@ If you accidentally add or remove rows without using the Spreadsheet Mapper tool
 
 ====Embedding in WordPress====
 
-Open your spreadsheet map in google maps and click the "chain" icon at the top left.
+If you are using the Spreadsheet Mapper as part of a course project, you can easily embed your map into a WordPress site. You only have to do this once; every time you re-publish the changes you've made in the spreadsheet, the embedded map will automatically update.(Keep in mind that it often takes 5-10 minutes for your updated information to appear on the embedded map.)
 
-{{:google-mapper:embed_step_one.png?600|}}
+To embed your map into WordPress:
 
+1)  Open your spreadsheet map in google maps and click the "chain" icon at the top left.
 
-In the pop up window copy the embed code.
+[{{ :google-mapper:embed_step_one.png?500 |}}]
 
-{{:google-mapper:embed_step_two.png?600|}}
+2)  In the pop up window copy the embed code.
 
+[{{ :google-mapper:embed_step_two.png?500 |}}
 
-Open your Wordpress dashboard and make a new post. Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret your link as code and display it properly. You can also edit how large your map appears in your post by adjusting the Width and Height code at the beginning of the embed code. 
+3)  Open your WordPress dashboard and make a new post. 
 
-{{:google-mapper:adding_to_wordpress.png?800|}}
+4)  Change your post type from "Visual" to "Text" in the top left corner. This will make WordPress interpret and display your embed code properly. 
 
+5)  Paste the embed code into the WordPress editor. You can also edit how large your map appears in your post by adjusting the Width and Height at the beginning of the embed code. 
 
-
-
-
+[{{ :google-mapper:adding_to_wordpress.png?500 |}}]
 ==== Tips: ====
 
 Be Patient because it will take Google drive and the codes in the spreadsheets a few moments to process your changes.
