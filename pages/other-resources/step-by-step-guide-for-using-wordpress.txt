@@ -2,21 +2,6 @@
 
 
 
-==== Changing your password= ===
-
-If you need to change your password, you can do this from the **Users** → **Your Profile** subtab.
-
-{{http://farm7.static.flickr.com/6183/6116572798_52a1549906.jpg}}
-
-Or, you can choose "Edit My Profile" from your name in the Admin Bar
-
-{{http://farm9.staticflickr.com/8287/7742341136_1c4fe457f3.jpg}}
-
-Then change your password by typing it twice into the New Password fields
-
-{{http://farm7.static.flickr.com/6070/6116028781_03b4deb335.jpg}}
-
-Then click the "Update Profile" button at the bottom of the screen.
 
 ==== An overview of the back-end tabs ====
 === The Dashboard ===
