@@ -1,25 +1,6 @@
 
 
 
-==== Where is my blog? And how do I login? ====
-
-First things first, where is your blog? Your individual blogs should be located at the address you specified when signing up for a UMW Blog. Your initial blog address is determined by the domain you chose when you created your blog, which, by default, is the same as your username unless you specified something else. For example, if the domain you specified is "myblog" your blog address will be the following:
-
-   http://myblog.umwblogs.org
-
-If you didn't specify a domain, and your username was janedoe, then your blog address is probably as follows:
-
-   http://janedoe.umwblogs.org 
-
-To access the administrative back-end of your blog you should see a log in link on the main page. If you do not see this link, for whatever reason, enter the following at the end of your url address "/wp-admin" (no quotes)- the address should look something like this:
-
-   http://myblog.umwblogs.org/wp-admin
-
-Once you've done this, you will see two fields asking for your login and password, as pictured below.
-
-{{http://farm4.static.flickr.com/3368/3548600759_ef21e8cf30.jpg}}
-
-Login and you should be taken directly to your administrative back-end.
 
 ==== Changing your password= ===
 
