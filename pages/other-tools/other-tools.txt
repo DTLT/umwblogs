@@ -1,5 +1,8 @@
 {{indexmenu_n>10}}
 
-#UMW Blogs Dashboard
+#Other Tools
 
-Welcome to UMW Blogs! Below, find links and other information to help you get started in using the system.
+For assistance in using external tools with UMW Blogs, consult the following:
+
+  * [[other-tools:google-mapper|Spreadsheet Mapper]]
+  * [[other-tools:timelinejs|Spreadsheet Timeline]] (aka TimelineJS)
