@@ -1,3 +1,5 @@
+{{indexmenu_n>1}}
+
 #Spreadsheet Mapper
 
 ====Documentation====
