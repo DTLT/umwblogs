@@ -1,5 +1,5 @@
 {{indexmenu_n>9}}
 #DTLT Staff Resources
 
-  * Course List Template
+  * [[Course List Template]]
 
