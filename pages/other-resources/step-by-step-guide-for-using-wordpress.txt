@@ -1,10 +1,5 @@
 
 
-==== Creating more than one blog at UMW Blogs ====
-
-{{http://farm8.staticflickr.com/7272/7747085882_07ca8a0130.jpg}}
-
-You can create as many blogs as you desire on UMW Blogs. However, you can only do so once you are logged on to UMW Blogs with your original login name and password (keep in mind your UMW Blogs username and password is different from your UMW systems username and password). **You do not need to create a new username and password each time you want a new blog.**
 
 ==== Where is my blog? And how do I login? ====
 
