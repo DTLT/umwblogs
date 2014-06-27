@@ -4,5 +4,5 @@
 
 For assistance in using external tools with UMW Blogs, consult the following:
 
-  * [[other-tools:google-mapper:google-mapper|Spreadsheet Mapper]]
-  * [[other-tools:timelinejs:timelinejs|Spreadsheet Timeline]] (aka TimelineJS)
+  * [[other-tools:spreadsheet-mapper:spreadsheet-mapper|Spreadsheet Mapper]]
+  * [[other-tools:spreadsheet-timeline:spreadsheet-timeline|Spreadsheet Timeline]]
