@@ -1,7 +1,4 @@
 
-==== Creating a blog at UMW Blogs ====
-
-To create your own blog on UMW Blogs, go to the [[http://umwblogs.org/wp-signup.php | sign up page]] and enter a username and e-mail address (you **must** use your UMW email). Once you have done this, you should receive an e-mail that will confirm your account and soon after provide you with a password.
 
 ==== Creating more than one blog at UMW Blogs ====
 
