@@ -42,41 +42,26 @@ You only need to complete these steps once for each timeline you create; after y
 
 7)  Paste the code from the TimelineJS website into the WordPress editor, then publish your page or post. Your timeline should appear embedded into the post, and any changes you make in the spreadsheet should automatically be updated here. (Note that it may take a few minutes for changes on the spreadsheet to appear on the timeline; while the process is automatic, it is not instantaneous. Be patient!)
 
+====Entering Data====
 
+Each row in the spreadsheet will create a single slide (i.e. an event on your timeline). Several sample events have been included in the template as examples of what your slides will look like when finished.
 
+Here are descriptions of the available columns in the timeline spreadsheet:
 
-===== Spreadsheet Columns =====
+  * **Start Date** and **End Date:** you must enter at least one date for each event, either a start date, or an end date. (You may enter both, if applicable.) The standard date format is MM/DD/YYYY, but you may also enter just a month and year (MM/YYYY) or just a year (YYYY). 
+  * **Headline:** the title of the event. For the Title slide, the Headline will be displayed as the name of the timeline.
+  * **Text:** a brief description of the event. For the Title slide, the Text will appear as a subtitle text.
+  * **Media:** a link to a single multimedia object you'd like to display on an event slide. It could be a picture, website, YouTube or Vimeo video, Google map, Flickr photo, tweet, SoundCloud audio, or block quote. Note that your chosen multimedia object must already be online; you cannot upload it directly to the timeline from your computer. For a block quote use ''<blockquote>'' before the text and ''</blockquote>'' at the end of the text.
+  * **Media Credit:** the credit for the media creator.
+  * **Media Caption:** a caption to describe the media.
+  * **Media Thumbnail:** a small image that will appear in the slider to represent an event.
+  * **Type:** can be one of three options: title, era, or blank.
+ 
+Using the title type will create an introductory slide that a visitor will always see first. Only one slide can be the title slide. The first slide is by default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
 
-**Start and End Date:** The standard date format is: xx/xx/xxxx -- Month / Day / Year
+Using the era type means the timeline will not show anything in the other fields for the event, it will simply add an orange box and name to the timeline below to show events happening in an era. It will name your era with the headline in that row. 
 
-
-Make sure to put the dates in chronological order, the Timeline will not work well if it needs to jump around the timeline to out of order dates.
-
-[{{ :timelinejs:screen_shot_.png?200 |}}] 
-
-[{{ :timelinejs:screen_shot_2.png?350 |}}]
-
-**Headline:** This is where you can put a the title of the event.
-
-**Text:** Here is where you can type blocks of text to describe this specific event, try to keep it short and just summarize the event.
-
-Important note: For the Title slide, by default it is the first row, the text in the cell will appear as a sub-title text and you must include it.
-
-**Media:** This is where you can add a link to your multimedia such as a picture, website, YouTube video, Vimeo Video, Google map, a Flickr photo, a Twitter tweet, SoundCloud, and a Block Quote.
-
-For a block quote use "<blockquote>" before the text and "</blockquote>" at the end of the text.
-
-**Media Credit:** Here You can put a credit of who or where the photo came from.
-
-**Media Caption:** Here you can write a caption to describe your photo.
-
-**Media Thumbnail:** This is where you can add an additional link to a photo so that that a small image will appear in the timeline to represent that slide. 
-
-**Type:** This is where you can decide wether your slide is an standard slide, a title side, or an era, by selecting options from the drop down in the cell; blank, title, era, respectively.
-
-Using Title Type: The first "Slide" is by default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
-
-How to use the Era Type: By selecting the Era option will Timeline will not show anything in the other fields, it will simply add an orange box and name to the timeline below to show events happening in an Era. It will name your era with whatever is in the respective Headline column cell. 
+Leaving the type field blank will create a standard slide in the timeline. 
 
 ====Tips and Tricks====
 
