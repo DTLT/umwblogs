@@ -12,9 +12,11 @@ TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and 
 
 3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
 
-====Initial Setup====
+====Embedding in WordPress====
 
 In order to view your timeline, you will need to first publish the spreadsheet you are using to contain its data, and also to embed the timeline display code into a website (in this case, a post or page on UMW Blogs or another WordPress-based site).
+
+You only need to complete these steps once for each timeline you create; after you have published and embedded the timeline into a website, any changes you make to the spreadsheet will automatically (although not instantaneously) be populated into the timeline on your site.
 
 1)  In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
 
@@ -76,50 +78,11 @@ Using Title Type: The first "Slide" is by default set to be the title slide. If 
 
 How to use the Era Type: By selecting the Era option will Timeline will not show anything in the other fields, it will simply add an orange box and name to the timeline below to show events happening in an Era. It will name your era with whatever is in the respective Headline column cell. 
 
-**Important Notes:**
+====Tips and Tricks====
 
-* Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
-* For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
-* You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
-* Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
-* You can add additional rows at the bottom of the spread sheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting. 
-
-\\
-
-**Here is an example of how the columns will appear on your timeline:**
-{{:timelinejs:screen_shot_timeline.png?800|}}
-
-\\
-\\
-
-===== Publishing to the Web =====
-
-
-
-{{:timelinejs:publishing_step_1.png?350|}}{{:timelinejs:publishing_step_2.png?300|}}
-
-* From there paste that link in to The timeline JS's Step 3 where it says "Google spreadsheet URL." You will most likely not need to change any of the other settings
-
-{{:timelinejs:step_3.png?600|}}
-
-* A the bottom you can either preview your timeline on the same webpage or you can click "Link to Preview" and view it in another page
-* As a final step you can grab the code in Timeline JS's step four to embed into your website or blog.
-
-{{:timelinejs:step_4.png?600|}}
-
-**Important Note:** The "Automatically Republish" function does not always work immediately after you have made changes. You may have to go back into that window and manually republish your timeline if you want to see your most recent changes.
-
-
-
-\\
-\\
-
-
-===== Navigation =====
-
-
-You can navigate the timeline by:
-  * Using the arrow keys
-  * Clicking on tabs of each event
-  * Using the arrows on the sides of the slide currently in view
-  * By dragging the timeline at the bottom
+  * Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.
+  * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
+  * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
+  * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
+  * You can add additional rows at the bottom of the spreadsheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting. 
+  * Visitors to your site can navigate the timeline with the arrow keys on their keyboard, by clicking on an event tab in the timeline slider, by clicking the arrows on either side of the slide currently displayed on the timeline, and/or by dragging the slider.
