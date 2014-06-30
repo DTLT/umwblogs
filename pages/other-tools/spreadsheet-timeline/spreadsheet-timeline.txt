@@ -18,7 +18,7 @@ When you are ready to publish to the web or when you want to see how your update
 
 1)  In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
 
-[{{ :other-tools:spreadsheet-timeline:timeline-publish.png?500 |}}]
+[{{ :other-tools:spreadsheet-timeline:timeline-publish.png?300 |}}]
 
 2)  Another window will pop up. Make sure the box labeled "Automatically republish when changes are made" is checked, and click "Start Publishing."
 
