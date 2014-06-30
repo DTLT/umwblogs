@@ -16,13 +16,10 @@ Download the "Google Spreadsheet Template" and save a copy of their spreadsheet.
 Fill out the spreadsheet with information for your timeline.
 Your spreadsheet should look like this:
 
-{{:timelinejs:spreadsheet_tabs.png?800|}}
-\\
-\\
+[{{ :timelinejs:spreadsheet_tabs.png?800 |}}]
+
 
 ===== Spreadsheet Columns =====
-
-
 
 **Start and End Date:** The standard date format is: xx/xx/xxxx -- Month / Day / Year
 
@@ -30,8 +27,9 @@ You can change this format by selecting the “Start Date” column, “End Date
 
 Make sure to put the dates in chronological order, the Timeline will not work well if it needs to jump around the timeline to out of order dates.
 
+[{{ :timelinejs:screen_shot_.png?200 |}}] 
 
-{{:timelinejs:screen_shot_.png?200|}} {{:timelinejs:screen_shot_2.png?350|}}
+[{{ :timelinejs:screen_shot_2.png?350 |}}]
 
 **Headline:** This is where you can put a the title of the event.
 
