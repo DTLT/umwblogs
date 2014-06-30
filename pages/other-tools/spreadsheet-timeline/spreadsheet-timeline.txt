@@ -116,6 +116,3 @@ You can navigate the timeline by:
   * By dragging the timeline at the bottom
 
 
-===== Examples of Timelines in Use =====
-
- \\
