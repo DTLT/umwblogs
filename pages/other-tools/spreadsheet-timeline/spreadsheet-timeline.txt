@@ -4,26 +4,38 @@
 
 TimelineJS is a web-based tool that takes entries from a Google Spreadsheet and displays them visually on a timeline. This tool has been used to create timeline covering topics like the  [[http://taipingcivilwar.org/timeline|Taiping Civil War]], the [[http://america.aljazeera.com/articles/timeline-egypt-inturmoil0.html|Crisis in Egypt]], and the [[http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/|Life of Nelson Mandela]].
 
-To use TimelineJS, you must first have a Google account. If you do not already have one, please visit [[http://accounts.google.com|the Google sign-in]] page, and follow the link to create an account.
+====Access the Template====
 
-===== Access the Google Spreadsheet =====
+1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
-1)  Go to [[http://timeline.knightlab.com/|the TimelineJS homepage]] and click on the "Make a timeline" button (or scroll down to the "Make a timeline" section).
+2)  From the Google Drive [[http://drive.google.com/templates|Templates gallery]], search for UMW, and find the Spreadsheet Timeline template your course is using. If there is not a customized template for your specific course, use the template called "UMW Spreadsheet Timeline." You can also find [[other-tools:spreadsheet-timeline:spreadsheet-timeline|a list of customized templates]] on this wiki.
 
-Download the "Google Spreadsheet Template" and save a copy of their spreadsheet.\\
-[[https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public|Link to spread sheet]]
+3)  Once you have found the right template, click the "Use this template" button, and the template will be copied into your Google Drive account. When it is done copying, the template will be opened in your browser and you can begin working immediately.
 
-Fill out the spreadsheet with information for your timeline.
-Your spreadsheet should look like this:
+====Initial Setup====
 
-[{{ :timelinejs:spreadsheet_tabs.png?800 |}}]
+When you are ready to publish to the web or when you want to see how your updates are working you will need to publish to the web.
 
+1)  In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
+
+[{{ :other-tools:spreadsheet-timeline:timeline-publish.png?500 |}}]
+
+2)  Another window will pop up. Make sure the box labeled "Automatically republish when changes are made" is checked, and click "Start Publishing."
+
+[{{ :other-tools:spreadsheet-timeline:publish-start-publishing.png?500 |}}]
+
+3)  In the bottom of that window, copy the URL that appears under "Get a link to the published data." Be sure you copy the entire link -- you may need to expand the box to get the whole URL.
+
+[{{ :other-tools:spreadsheet-timeline:publish-get-url.png?500 |}}]
+
+4)  Go to the [[http://timeline.knightlab.com|TimelineJS website]], scroll down to the "Make a Timeline" section, and find Step 3. Paste the URL you copied into the box. You can use the "More Options" drop-down menu to make custom changes, but for most people the default options are acceptable.
+
+[{{ :other-tools:spreadsheet-timeline:publish-paste-url.png?500 |}}]
 
 ===== Spreadsheet Columns =====
 
 **Start and End Date:** The standard date format is: xx/xx/xxxx -- Month / Day / Year
 
-You can change this format by selecting the “Start Date” column, “End Date” column, or both columns. Then click the “Format” tab, put your mouse over “Number” at the top, and then select “Plain text” at the bottom of the drop down menu. Now you can have just a year, or a year and month, etc. as 1908, 06/1998
 
 Make sure to put the dates in chronological order, the Timeline will not work well if it needs to jump around the timeline to out of order dates.
 
@@ -71,13 +83,7 @@ How to use the Era Type: By selecting the Era option will Timeline will not show
 
 ===== Publishing to the Web =====
 
-When you are ready to publish to the web or when you want to see how your updates are working you will need to publish to the web.
 
-* In your spreadsheet, click on "File" at the top, then "Click publish to the Web"
-* Another window will pop up, once there Check the box labeled: "Automatically republish when changes are made"
-* Uncheck all other boxes
-* Click "Start Publishing"
-* This will give you the URL to paste into the Timeline JS website.
 
 {{:timelinejs:publishing_step_1.png?350|}}{{:timelinejs:publishing_step_2.png?300|}}
 
@@ -112,5 +118,4 @@ You can navigate the timeline by:
   * Clicking on tabs of each event
   * Using the arrows on the sides of the slide currently in view
   * By dragging the timeline at the bottom
-
 
