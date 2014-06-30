@@ -1,2 +1,8 @@
 #UMW Blogs Support Home
 
+Welcome to the UMW Blogs support wiki! For a complete list of courses using UMW Blogs, visit [[course-lists:course-lists|our Course Lists archive]]. 
+
+
+
+{{page>course-tutorials:fall-2014:fall-2014}}
+
