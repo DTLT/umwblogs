@@ -22,11 +22,11 @@ When you are ready to publish to the web or when you want to see how your update
 
 2)  Another window will pop up. Make sure the box labeled "Automatically republish when changes are made" is checked, and click "Start Publishing."
 
-[{{ :other-tools:spreadsheet-timeline:publish-start-publishing.png?500 |}}]
+[{{ :other-tools:spreadsheet-timeline:publish-start-publishing.png |}}]
 
 3)  In the bottom of that window, copy the URL that appears under "Get a link to the published data." Be sure you copy the entire link -- you may need to expand the box to get the whole URL.
 
-[{{ :other-tools:spreadsheet-timeline:publish-get-url.png?500 |}}]
+[{{ :other-tools:spreadsheet-timeline:publish-get-url.png |}}]
 
 4)  Go to the [[http://timeline.knightlab.com|TimelineJS website]], scroll down to the "Make a Timeline" section, and find Step 3. Paste the URL you copied into the box. You can use the "More Options" drop-down menu to make custom changes, but for most people the default options are acceptable.
 
