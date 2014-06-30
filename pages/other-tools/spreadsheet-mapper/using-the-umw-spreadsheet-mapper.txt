@@ -1,6 +1,6 @@
 {{indexmenu_n>1}}
 
-#Using the Spreadsheet Mapper
+#Mapper How-To
 
 1)  Go to [[http://drive.google.com|Google Drive]] and sign in with your Google username and password. If you don't already have a Google account, you will need to [[https://accounts.google.com/signup|create one]].
 
@@ -22,7 +22,7 @@
 
 ====Entering Data====
 
-To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). Several sample placemarks have been included in the template to more accurately The data is broken down into two sections: static columns, and variable columns.
+To begin entering data, click the tab along the bottom of the screen called PlacemarkData. This is the worksheet where all of the data for your map lives. Each row will create a single placemark (i.e. a point on your map). Several sample placemarks have been included in the template The data is broken down into two sections: static columns, and variable columns.
 
 NOTE: To remove the sample placemarks, delete the content from each cell. DO NOT delete rows from the spreadsheet, as this will cause errors.
 
