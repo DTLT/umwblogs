@@ -2,4 +2,4 @@
 
 Welcome to the UMW Blogs support wiki! To browse our documentation, use the left sidebar. If you're looking for a custom tutorial for a class, check the list below:
 
-{{page>course-tutorials:fall-2014}}
+{{page>course-tutorials:fall-2014:fall-2014}}
