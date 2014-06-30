@@ -1,7 +1,8 @@
 #UMW Blogs Support Home
 
-Welcome to the UMW Blogs support wiki! To browse our documentation, use the left sidebar. If you're looking for a custom tutorial for a class, check the list below:
+Welcome to the UMW Blogs support wiki! For a complete list of courses using UMW Blogs, visit [[course-lists:course-lists|our Course Lists archive]]. 
+
+To browse our documentation, use the left sidebar. If you're looking for a custom tutorial for a class, check the list below:
 
 {{page>course-tutorials:fall-2014:fall-2014}}
 
-For a complete list of courses using UMW Blogs, visit [[course-lists:course-lists|our Course Lists archive]].
