@@ -48,7 +48,7 @@ Each row in the spreadsheet will create a single slide (i.e. an event on your ti
 
 Here are descriptions of the available columns in the timeline spreadsheet:
 
-  * **Start Date** and **End Date:** you must enter at least one date for each event, either a start date, or an end date. (You may enter both, if applicable.) The standard date format is MM/DD/YYYY, but you may also enter just a month and year (MM/YYYY) or just a year (YYYY). 
+  * **Start Date** and **End Date:** you must enter at least one date for each event, either a start date, or an end date. (You may enter both, if applicable.) The standard date format is MM/DD/YYYY, but you may also enter just a month and year (MM/YYYY) or just a year (YYYY).
   * **Headline:** the title of the event. For the Title slide, the Headline will be displayed as the name of the timeline.
   * **Text:** a brief description of the event. For the Title slide, the Text will appear as a subtitle text.
   * **Media:** a link to a single multimedia object you'd like to display on an event slide. It could be a picture, website, YouTube or Vimeo video, Google map, Flickr photo, tweet, SoundCloud audio, or block quote. Note that your chosen multimedia object must already be online; you cannot upload it directly to the timeline from your computer. For a block quote use ''<blockquote>'' before the text and ''</blockquote>'' at the end of the text.
@@ -56,7 +56,6 @@ Here are descriptions of the available columns in the timeline spreadsheet:
   * **Media Caption:** a caption to describe the media.
   * **Media Thumbnail:** a small image that will appear in the slider to represent an event.
   * **Type:** can be one of three options: title, era, or blank.
- 
 
 Using the title type will create an introductory slide that a visitor will always see first. Only one slide can be the title slide. The first slide is by default set to be the title slide. If you select the title type for a slide other than the first slide, all slides before it will not be shown.
 
