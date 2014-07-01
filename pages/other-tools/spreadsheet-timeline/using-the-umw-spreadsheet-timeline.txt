@@ -69,5 +69,5 @@ Leaving the type field blank will create a standard slide in the timeline.
   * For the Headline you must include something in the "Text" Field. It will show up as subtext under the Headline.
   * You do not need to fill the cells for: "End date”, “Media”, “Media Credit”, “Media Caption”, or “Media Thumbnail”.
   * Watch out for blank rows, your timeline will stop wherever that Blank row occurs and any slide after will not appear.
-  * You can add additional rows at the bottom of the spreadsheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting. 
+  * You can add additional rows at the bottom of the spreadsheets for more events. You will need to expand the formatting of your cells above by grabbing the right corner of the cell and dragging it down the column to your new rows. You can also use the format painter brush as well to expand the formatting.
   * Visitors to your site can navigate the timeline with the arrow keys on their keyboard, by clicking on an event tab in the timeline slider, by clicking the arrows on either side of the slide currently displayed on the timeline, and/or by dragging the slider.
