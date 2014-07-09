@@ -1,3 +1,54 @@
 {{indexmenu_n>9}}
 
 #Embedding PDFs
+
+So there are at least three ways to embed a PDF into a post or page in WordPress. All three yield similar results, but there are some compatibility issues across different browsers and versions of these browsers. You could use this to easily display PDFs so that your users do not have to download the PDF to see it.
+
+==== Uploading the PDF ====
+
+====Finding the location of the PDF====
+
+
+
+==== Using Embed Code ====
+
+This does not work for the Firefox browser without an additional plugin.
+This does not work for the Safari browser.
+
+<code>
+
+<embed src="(Insert location of the PDF)" width="1500" height="600">
+
+
+</code>
+
+You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
+
+==== Using Object And Embed Code ====
+
+This does not work for Safari Browser.
+
+
+
+<code>
+
+<object data="(Insert location of the PDF)" type="application/pdf" width="1000" height="500">
+
+    <embed src="(Insert location of the PDF)" type="application/pdf" /> 
+</object>
+
+</code>
+
+You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
+
+
+==== Using Iframe Code ====
+
+<code>
+
+<iframe id="(insert Id name)" title="(Insert Title)" src="(Insert location of the PDF)" width="640" height="600" frameborder="1" scrolling="auto"></iframe>
+
+</code>
+
+You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
+You can also adjust the frameborder to display a larger border around the PDF to set it apart from the page. 
