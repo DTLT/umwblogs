@@ -4,7 +4,7 @@
 
 To make the front page static, click "Settings," on the left sidebar. In the submenu click, "Reading."
 
-{{:appearance-and-plugins:tools_sidebar_reading.png?100|}}
+[{{ :appearance-and-plugins:tools_sidebar_reading.png?100 |}}]
 
 At the top of the new page that appears you can toggle the settings for making your front page static and using another page for your posts.
 
