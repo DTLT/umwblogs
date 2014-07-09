@@ -44,6 +44,8 @@ You can adjust the numbers in the parentheses at the end of the code to adjust t
 
 ==== Using Iframe Code ====
 
+This does not work for the Safari Browser
+
 <code>
 
 <iframe id="(insert Id name)" title="(Insert Title)" src="(Insert location of the PDF)" width="640" height="600" frameborder="1" scrolling="auto"></iframe>
