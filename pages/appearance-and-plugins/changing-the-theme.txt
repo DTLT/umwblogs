@@ -2,6 +2,8 @@
 
 #Changing the Theme
 
+If you do not like the standard layout of the blog/website, you can choose different theme that is better suited to your purposes, style, or visual appeal.
+
 To change your theme click the "Appearance" tab on the left side bar. 
 
 {{:appearance-and-plugins:appearance.png?150|}}
