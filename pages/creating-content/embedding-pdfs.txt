@@ -12,7 +12,13 @@ From your blogs dashboard, click "Media" on the right side and then click "Add N
 ====Finding the location of the PDF====
 
 
+To find the location of the PDF file to put in the code click on the "Media" tab on the left column and it should show your media library. If not, click "Media" on the left sidebar and then click "Library" in the submenu. 
 
+{{:creating-content:in_media_library.png|}}
+
+Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu.
+
+{{:creating-content:file_url.png|}}
 ==== Using Embed Code ====
 
 This does not work for the Firefox browser without an additional plugin.\\
