@@ -1,9 +1,9 @@
 #Activating Plugins
 
-1) Log into your account
-2) Select the plugins menu from the left side bar
+1) Log into your account\\
+2) Select the plugins menu from the left side bar\\
 
-{{:  appearance-and-plugins:plugin_s_on_left_menu.png?150  |}}
+[{{:  appearance-and-plugins:plugin_s_on_left_menu.png?150  |}}]\\
 
 3) Click activate under the individual plugins
 
