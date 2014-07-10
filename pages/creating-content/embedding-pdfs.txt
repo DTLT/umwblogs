@@ -2,8 +2,8 @@
 
 #Embedding PDFs
 
-So there are at least three ways to embed a PDF into a post or page in WordPress. All three yield similar results, but there are some compatibility issues across different browsers and versions of these browsers. You could use this to easily display PDFs so that your users do not have to download the PDF to see it.
-
+You could use this to easily display PDFs so that your users do not have to download the PDF to see it.//
+So there are at least three ways to embed a PDF into a post or page in WordPress. All three yield similar results, but there are some compatibility issues across different browsers and versions of these browsers.
 ==== Uploading the PDF ====
 
 ====Finding the location of the PDF====
