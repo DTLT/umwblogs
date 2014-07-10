@@ -16,12 +16,12 @@ To find the location of the PDF file to put in the code click on the "Media" tab
 
 {{:creating-content:in_media_library.png|}}
 
-Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu.
+Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu. **One very important thing to note:** if you decide to change the title of your PDF document, the Link will also change, so you may need to comeback and copy this link again and your post(s).
 
 {{:creating-content:file_url.png|}}
 ==== Using Different Embedding Methods ====
 
-To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labled "(Insert Location of PDF)". Make sure to delete the parentheses as well.
+To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labeled "(Insert Location of PDF)". Make sure to delete the parentheses as well.
 
 You can adjust the numbers in the parentheses at the end of any of these code sequences to adjust the display width and height of the pdf, but you are constrained to the maximums that your page theme is set to. 
 
