@@ -12,7 +12,7 @@ So there are at least three ways to embed a PDF into a post or page in WordPress
 
 ==== Using Embed Code ====
 
-This does not work for the Firefox browser without an additional plugin.
+This does not work for the Firefox browser without an additional plugin.\\
 This does not work for the Safari browser.
 
 <code>
