@@ -19,8 +19,13 @@ To find the location of the PDF file to put in the code click on the "Media" tab
 Click on your PDF and it will open up a new page. Then on your new page copy the file URL from the right side menu.
 
 {{:creating-content:file_url.png|}}
-==== Using Embed Code ====
+==== Using Different Embedding Methods ====
 
+To use the embed code you need to use the URL from the previous step and insert it into the the following locations below that have been labled "(Insert Location of PDF)". Make sure to delete the parentheses as well. 
+
+**Embed Command**
+
+This command while short and simple can have compatibility issues with HTML 4 and HTML 5 coding languages.
 This does not work for the Firefox browser without an additional plugin.\\
 This does not work for the Safari browser.
 
@@ -33,7 +38,9 @@ This does not work for the Safari browser.
 
 You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
 
-==== Using Object And Embed Code ====
+**Using Object And Embed Code**
+
+This command sequence is claimed to have the best compatibility across all browsers. 
 
 This does not work for Safari Browser.
 
@@ -51,7 +58,9 @@ This does not work for Safari Browser.
 You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
 
 
-==== Using Iframe Code ====
+**Using Iframe Code**
+
+This is the recommend version, because it gives you the most options in displaying your PDF in the page, but it also is compatible across all internet browsers other than Safari. 
 
 This does not work for the Safari Browser
 
@@ -61,5 +70,5 @@ This does not work for the Safari Browser
 
 </code>
 
-You can adjust the numbers in the parentheses at the end of the code to adjust the display width and height of the pdf, but you are constrained to the maximums that your page them is set to.
-You can also adjust the frameborder to display a larger border around the PDF to set it apart from the page. 
+You can adjust the numbers in the parentheses at the end of any of these code sequences to adjust the display width and height of the pdf, but you are constrained to the maximums that your page theme is set to.
+You can also adjust the "frameborder" to display a larger border around the PDF to set it apart from the page. 
