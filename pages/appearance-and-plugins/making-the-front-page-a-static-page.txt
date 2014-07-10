@@ -10,4 +10,4 @@ To make the front page static, click "Settings," on the left sidebar. In the sub
 
 At the top of the new page that appears you can toggle the settings for making your front page static and using another page for your posts.
 
-{{:appearance-and-plugins:static_page_options.png?500|}}
+[{{  :appearance-and-plugins:static_page_options.png?500  |}}]
