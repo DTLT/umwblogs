@@ -4,5 +4,5 @@ Welcome to the UMW Blogs support wiki! For a complete list of courses using UMW 
 
 
 
-{{page>course-tutorials:fall-2014:fall-2014}}
+{{page>course-lists:fall-2014-course-list}}
 
