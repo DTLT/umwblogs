@@ -2,8 +2,6 @@
 
 Welcome to the UMW Blogs support wiki! If you've never used UMW Blogs before, you may want to check out:
 
-
-
 For a complete list of courses using UMW Blogs, visit [[course-lists:course-lists|our Course Lists archive]]. 
 
 {{page>course-lists:fall-2014-course-list}}
