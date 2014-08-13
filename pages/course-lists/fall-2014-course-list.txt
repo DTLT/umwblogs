@@ -18,11 +18,13 @@
   * 
 
 ==== Economics ====
-  * 
+  * Steve Greenlaw's [[http://econ201honors.umwblogs.org/ | ECON 201: Principles of Macroeconomics]]
 
 ==== English, Linguistics, and Communication ====
-  * Warren Rochelle's [[http://302prose.umwblogs.org/ | English 302A: Introduction to Creative Writing, Sections 1 & 2]]
-  * Amanda Rutstein's [[http://302poetry.umwblogs.org/ | English 302A: Introduction to Creative Writing, Sections 3 & 4]]
+  * Chris Foss' [[http://brl14.umwblogs.org/ | ENGL 335B: British Romantic Literature]]
+  * Warren Rochelle's [[http://302prose.umwblogs.org/ | ENGL 302A: Introduction to Creative Writing, Sections 1 & 2]]
+  * Amanda Rutstein's [[http://302poetry.umwblogs.org/ | ENGL 302A: Introduction to Creative Writing, Sections 3 & 4]]
+  * Mara Scanlon's [[http://litgreatwar.umwblogs.org/ | ENGL 375JJ: Literature of the Great War]]
 
 ==== Freshman Seminars ====
   * 
@@ -46,7 +48,7 @@
   * 
 
 ==== Sociology and Anthropology ====
-  * 
+  * Tracy Citeroni's [[http://publicsoc14.umwblogs.org/ | SOCG 475: Public Sociology Seminar]]
 
 ==== Women's and Gender Studies ====
   * Kristin Marsh's [[http://introws.umwblogs.org/ | WGST 101: Intro to Women's Studies]]
