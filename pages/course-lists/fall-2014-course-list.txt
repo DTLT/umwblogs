@@ -12,7 +12,9 @@
   * 
 
 ==== Computer Science ====
-  * 
+  * Jim Groom's CPSC 104: The Internet
+  * Jim Groom's CPSC 106: Digital Storytelling
+  * Jennifer Polack's CPSC 106: Digital Storytelling
 
 ==== Earth & Environmental Science ====
   * 
@@ -33,13 +35,24 @@
   * Warren Rochelle's [[http://fsem100m.umwblogs.org/ | FSEM 100M: The Good Society: Exploring Utopia]]
 
 ==== Geography ====
-  * Melina Patterson's [[| GEOG 237: Cities]]
+  * Melina Patterson's GEOG 237: Cities
 
 ==== Historic Preservation ====
   * 
 
 ==== History and American Studies ====
+  * Sue Fernsebner's HIST 297: History Colloquium
+  * Claudine Ferrell's HIST 298: History Practicum
+  * Krystyn Moon's HIST 297: History Colloquium
   * Jeff McClurken's [[http://infoage2014.umwblogs.org/ | HIST 471D7: History of the Information Age]]
+  * Jess Rigelhaupt's AMST 201: Introduction to American Studies
+  * Jess Rigelhaupt's AMST 202: The Politics and Culture of the 1960s
+  * Jess Rigelhaupt's HIST 441: Oral History
+
+==== Honors Program ====
+  * Steve Greenlaw's HONR 100M: Inequality and the American Dream
+  * Mary Kayler's HONR 100E: Participatory Play
+  * Robert Rycroft's HONR 100M: Inequality and the American Dream
 
 ==== Modern Foreign Languages ====
   * 
