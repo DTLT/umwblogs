@@ -2,7 +2,7 @@
 
 Welcome to the UMW Blogs support wiki! If you've never used UMW Blogs before, you may want to check out:
 
-For a complete list of courses with online presences, visit [[course-lists:course-lists|our Course Lists archive]]. If you know of a course not listed, either for the current or previous semesters, please email Ryan at <rbrazell@umw.edu>.
+For a complete list of courses with online presences, visit [[course-lists:course-lists|our Course Lists archive]]. If you know of a course not listed, either for the current or a previous semester, please email Ryan at <rbrazell@umw.edu>.
 
 {{page>course-lists:fall-2014-course-list}}
 
