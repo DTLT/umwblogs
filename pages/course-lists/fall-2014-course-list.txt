@@ -12,8 +12,8 @@
   * 
 
 ==== Computer Science ====
-  * Jim Groom's CPSC 104: The Internet
-  * Jim Groom's CPSC 106: Digital Storytelling
+  * Jim Groom's CPSC 104: [[http://theinternetcourse.net/ | The Internet]]
+  * Jim Groom's CPSC 106: [[http://ds106.us/tag/wire106 | Digital Storytelling]]
   * Jennifer Polack's CPSC 106: Digital Storytelling
 
 ==== Earth & Environmental Science ====
@@ -32,10 +32,11 @@
 
 ==== Freshman Seminars ====
   * Sue Fernsebner's [[http://toysashistory.umwblogs.org/ | FSEM 100C6 : Toys as History]]
+  * Nina Mikhalevsky's [[http://bannedart.umwblogs.org/ || Banned & Dangerous Art]]
   * Warren Rochelle's [[http://fsem100m.umwblogs.org/ | FSEM 100M: The Good Society: Exploring Utopia]]
 
 ==== Geography ====
-  * Melina Patterson's GEOG 237: Cities
+  * Melina Patterson's [[http://www.melinapatterson.net/teaching/geog237/ | GEOG 237: Cities]]
 
 ==== Historic Preservation ====
   * 
